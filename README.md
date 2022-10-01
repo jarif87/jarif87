@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently Working on Transformer Learning<br>🌱 I’m currently learning Deep Learning , Machine Learning, Data Science<br>👯 I’m looking to collaborate on Data Fusion and Self Automations.<br>🤔 I’m looking for help with deep learning and Transformer learning projects<br>💬 Ask me about AI<br>📫 How to reach me: Linkdin<br>😄 Pronouns: Sadik al jarif(সাদিক আল জারিফ)<br>⚡ Fun fact:hate AI
+🔭 I am currently Working on Transformer Learning<br>🌱 I’m currently learning Deep Learning , Machine Learning, Data Science<br>👯 I’m looking to collaborate on Data Fusion and Self Automations.<br>🤔 I’m looking for help with deep learning and Transformer learning projects<br>💬 Ask me about AI<br>📫 How to reach me: https://www.linkedin.com/in/sadik-aljarif-3033351a6/<br>😄 Pronouns: Sadik al jarif(সাদিক আল জারিফ)<br>⚡ Fun fact:hate AI
 
 
 ## 🌐 Socials:
@@ -11,12 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=jarif87&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jarif87&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jarif87&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jarif87&icon=0&color=0)](https://visitcount.itsvg.in)
