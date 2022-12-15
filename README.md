@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently Working on Transformer Learning<br>🌱 I’m currently learning Deep Learning , Machine Learning, Data Science<br>👯 I’m looking to collaborate on Data Fusion and Self Automations.<br>🤔 I’m looking for help with deep learning and Transformer learning projects<br>💬 Ask me about AI<br>📫 How to reach me: https://www.linkedin.com/in/sadik-aljarif-3033351a6/<br>😄 Pronouns: Sadik al jarif(সাদিক আল জারিফ)<br>⚡ Fun fact:hate AI
+🔭 I am currently Working on Transformer Learning<br>🌱 I’m currently learning Deep Learning , Machine Learning, Data Science<br>👯 I’m looking to collaborate on Data Fusion and Self Automations.<br>🤔 I’m looking for help with deep learning and Transformer learning projects<br>💬 Ask me about AI<br>📫 How to reach me: https://www.linkedin.com/in/sadik-aljarif-3033351a6/<br>😄 Pronouns: Sadik al jarif(সাদিক আল জারিফ)<br>⚡ Fun fact:🤔🤔🤔🤔
 
 
 ## 🌐 Socials:
