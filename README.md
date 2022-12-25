@@ -42,7 +42,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarif87&show_icons=true&locale=en&layout=compact" alt="jarif87" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarif87&show_icons=true&locale=en&layout=compact" alt="jarif87" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&locale=en" alt="jarif87" /></p>
 
