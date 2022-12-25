@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sadik Al Jarif</h1>
-<h3 align="center"></h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarif87&label=Profile%20views&color=0e75b6&style=flat" alt="jarif87" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarif87" alt="jarif87" /></a> </p>
@@ -8,11 +6,11 @@
 <p align="left"> <a href="https://twitter.com/jarif84112354" target="blank"><img src="https://img.shields.io/twitter/follow/jarif84112354?logo=twitter&style=for-the-badge" alt="jarif84112354" /></a> </p>
 
 🔭 I am currently Working on Transformer Learning
- 
+
 🤝 I’m looking for help with deep learning and Transformer learning projects
- 
+
 🌱 I’m currently learning Deep Learning , Machine Learning, Data Science
- 
+
 💬 Ask me about AI,Deep Learning,Python
 
 👨‍💻 All of my projects are available at [https://www.kaggle.com/sadikaljarif/code](https://www.kaggle.com/sadikaljarif/code)
@@ -41,14 +39,8 @@
 
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarif87&show_icons=true&locale=en&layout=compact" alt="jarif87" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarif87&show_icons=true&locale=en&layout=compact" alt="jarif87" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&locale=en" alt="jarif87" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&locale=en" alt="jarif87" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jarif87&" alt="jarif87" /></p>
-
-
-<h3 align="left">Support:</h3>
-
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sadikaljarA"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sadikaljarA" /></a><a href="https://ko-fi.com/https://ko-fi.com/sadikaljarif"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/sadikaljarif" /></a></p><br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarif87&" alt="jarif87" /></p>
