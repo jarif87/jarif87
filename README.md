@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sadik Al Jarif</h1>
+
+
+<h1 align="center">Without big data, you are blind and deaf and in the middle of a freeway   – Geoffrey Moore </h1>
+
+![This is an image](https://miro.medium.com/max/1400/1*fNzeGVq-l02EA6d5jFzcsQ.webp)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarif87&label=Profile%20views&color=0e75b6&style=flat" alt="jarif87" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarif87" alt="jarif87" /></a> </p>
