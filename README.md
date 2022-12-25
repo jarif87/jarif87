@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadik Al Jarif</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarif87&label=Profile%20views&color=0e75b6&style=flat" alt="jarif87" /> </p>
 
@@ -7,13 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/jarif84112354" target="blank"><img src="https://img.shields.io/twitter/follow/jarif84112354?logo=twitter&style=for-the-badge" alt="jarif84112354" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.kaggle.com/sadikaljarif/code](https://www.kaggle.com/sadikaljarif/code)
+🔭 I am currently Working on Transformer Learning
+ 
+🤝 I’m looking for help with deep learning and Transformer learning projects
+ 
+🌱 I’m currently learning Deep Learning , Machine Learning, Data Science
+ 
+💬 Ask me about AI,Deep Learning,Python
 
-- 📝 I regularly write articles on [https://medium.com/@sadikaljarif05](https://medium.com/@sadikaljarif05)
+👨‍💻 All of my projects are available at [https://www.kaggle.com/sadikaljarif/code](https://www.kaggle.com/sadikaljarif/code)
 
-- 📫 How to reach me **https://www.linkedin.com/in/sadik-aljarif-3033351a6/**
+📝 I regularly write articles on [https://medium.com/@sadikaljarif05](https://medium.com/@sadikaljarif05)
 
-- ⚡ Fun fact **nothing**
+📫 How to reach me **https://www.linkedin.com/in/sadik-aljarif-3033351a6/**
+
+⚡ Fun fact **Nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
