@@ -19,9 +19,9 @@
 
 💬 Ask me about AI,Deep Learning,Python
 
-👨‍💻 All of my projects are available at [https://www.kaggle.com/sadikaljarif/code](https://www.kaggle.com/evilspirit05)
+👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/evilspirit05)
 
-📝 I regularly write articles on [https://medium.com/@sadikaljarif05](https://medium.com/@sadikaljarif05)
+📝 I regularly write articles on [Medium](https://medium.com/@sadikaljarif05)
 
 📫 How to reach me **https://www.linkedin.com/in/sadik-aljarif-3033351a6/**
 
