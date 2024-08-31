@@ -23,7 +23,7 @@
 
 📝 I regularly write articles on [Medium](https://medium.com/@sadikaljarif05)
 
-📫 How to reach me **https://www.linkedin.com/in/sadik-aljarif-3033351a6/**
+📫 How to reach me [Linkedin](https://www.linkedin.com/in/sadik-aljarif-3033351a6/)
 
 ⚡ Fun fact **Nothing**
 
