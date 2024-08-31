@@ -19,7 +19,7 @@
 
 💬 Ask me about AI,Deep Learning,Python
 
-👨‍💻 All of my projects are available at [https://www.kaggle.com/sadikaljarif/code](https://www.kaggle.com/sadikaljarif/code)
+👨‍💻 All of my projects are available at [https://www.kaggle.com/sadikaljarif/code](https://www.kaggle.com/evilspirit05)
 
 📝 I regularly write articles on [https://medium.com/@sadikaljarif05](https://medium.com/@sadikaljarif05)
 
