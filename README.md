@@ -25,7 +25,7 @@
 
 📫 How to reach me [Linkedin](https://www.linkedin.com/in/sadik-aljarif-3033351a6/)
 
-⚡ Fun fact **I spend more time debugging code than I do sleeping so I guess you could say my code is in a committed relationship with bugs**
+⚡ Fun fact : **I spend more time debugging code than I do sleeping so I guess you could say my code is in a committed relationship with bugs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
