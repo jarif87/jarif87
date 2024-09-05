@@ -68,7 +68,7 @@
 
 <h3 align="left">Platforms:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Kaggle-20.00D5.svg?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/Kaggle-%23005A4E.svg?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
   <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=flat&logo=googlecolab&logoColor=white" alt="Colab" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" />
