@@ -188,7 +188,3 @@
 </p>
 
 
-<h3 align="left">Contribution Graph:</h3>
-<p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jarif87&theme=react-dark&hide_border=true" alt="jarif87" />
-</p>
