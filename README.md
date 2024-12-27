@@ -19,14 +19,6 @@
   </a>
 </p>
 
-🔭 I am currently working on Transformer Learning
-
-🤝 I’m looking for help with deep learning and Transformer learning projects
-
-🌱 I’m currently learning Deep Learning, Machine Learning, Data Science
-
-💬 Ask me about AI, Deep Learning, Python
-
 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/evilspirit05)
 
 📝 I regularly write articles on [Medium](https://medium.com/@sadikaljarif05)
@@ -43,9 +35,7 @@
   <a href="https://linkedin.com/in/sadik-aljarif-3033351a6/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/15232201/jarif" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" />
-  </a>
+
   <a href="https://www.kaggle.com/evilspirit05" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
