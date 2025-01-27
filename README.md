@@ -25,7 +25,7 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sadik-aljarif-3033351a6/)
 
-⚡ Fun fact: **I spend more time debugging code than I do sleeping, so I guess you could say my code is in a committed relationship with bugs**
+⚡ Fun fact: **I spend more time debugging code than I do sleeping so I guess you could say my code is in a committed relationship with bugs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -166,11 +166,23 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarif87&show_icons=true&locale=en&layout=compact" alt="jarif87" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&locale=en" alt="jarif87" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jarif87&" alt="jarif87" />
-</p>
-
-
+<section style="background: linear-gradient(145deg, #0D1117, #161B22); padding: 30px; border-radius: 16px; text-align: center; margin: 30px auto; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); border: 1px solid rgba(88, 166, 255, 0.1);">
+    <h3 style="background: linear-gradient(90deg, #58A6FF, #FF69B4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 28px; font-weight: 700; margin-bottom: 30px; text-transform: uppercase; letter-spacing: 2px;">⚡ GitHub Statistics ⚡</h3>
+    <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin: 20px auto;">
+        <div style="transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(88, 166, 255, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarif87&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" style="border-radius: 12px; width: 350px; height: auto; border: 1px solid rgba(88, 166, 255, 0.2);"/>
+        </div>
+        <div style="transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(88, 166, 255, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+            <img src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub Stats" style="border-radius: 12px; width: 350px; height: auto; border: 1px solid rgba(88, 166, 255, 0.2);"/>
+        </div>
+        <div style="transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(88, 166, 255, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarif87&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF69B4&currStreakLabel=58A6FF" alt="GitHub Streak" style="border-radius: 12px; width: 350px; height: auto; border: 1px solid rgba(88, 166, 255, 0.2);"/>
+        </div>
+    </div>
+    <div style="margin-top: 30px; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(88, 166, 255, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarif87&bg_color=0D1117&color=58A6FF&line=FF69B4&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" style="border-radius: 12px; width: 100%; max-width: 1080px; height: auto; border: 1px solid rgba(88, 166, 255, 0.2);"/>
+    </div>
+    <div style="margin-top: 20px;">
+        <img src="https://komarev.com/ghpvc/?username=jarif87&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" style="border-radius: 6px;"/>
+    </div>
+</section>
