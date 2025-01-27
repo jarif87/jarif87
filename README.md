@@ -20,38 +20,31 @@
   </a>
 </div>
 
-👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/evilspirit05)
 
-📝 I regularly write articles on [Medium](https://medium.com/@sadikaljarif05)
-
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sadik-aljarif-3033351a6/)
-
-⚡ Fun fact: **I spend more time debugging code than I do sleeping so I guess you could say my code is in a committed relationship with bugs**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/jarif84112354" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jarif84112354" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
   <a href="https://linkedin.com/in/sadik-aljarif-3033351a6/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-
   <a href="https://www.kaggle.com/evilspirit05" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Kaggle-%2300B8B8?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" />
   </a>
   <a href="https://fb.com/sadikal.jarif/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-%231D82B6?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
   </a>
- 
   <a href="https://medium.com/@sadikaljarif05" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-
-  <a href="https://discord.gg/sadik-al-jarif#4050" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Medium-%231572B6?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
   </a>
 </p>
+
+
+
+
+
 
 <h3 align="left">Platforms:</h3>
 <p align="left">
