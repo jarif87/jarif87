@@ -1,25 +1,29 @@
-<section style="background-color: #1e1e1e; padding: 40px 20px; border-radius: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); margin: 20px auto; max-width: 800px;">
-  <h1 align="center" style="color: #2F80ED; font-size: 36px; font-weight: bold; margin-bottom: 20px;">
-    Hi <span style="display: inline-block; animation: wave 1.5s infinite;">👋</span> I'm Sadik Al Jarif
+<section style="background-color: #1a1a1a; padding: 40px 20px; border-radius: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); max-width: 800px; margin: 30px auto; text-align: center;">
+  <h1 style="font-size: 40px; color: #F39C12; font-weight: bold; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 1.5px;">
+    Welcome to My World of Data and Innovation 🌟
   </h1>
   
-  <h3 align="center" style="color: #777; font-style: italic; margin: 20px 0; font-size: 1.1em;">
-    "Without big data, you are blind and deaf and in the middle of a freeway"
-    <br>
-    <span style="color: #666; font-size: 0.9em;">– Geoffrey Moore</span>
-  </h3>
+  <p style="color: #BDC3C7; font-size: 1.1em; line-height: 1.6; font-style: italic; margin-bottom: 20px;">
+    "Data is not just numbers; it's the story we tell, the insight we gain, and the future we shape."
+  </p>
+  
+  <div style="margin-top: 20px;">
+    <span style="background-color: #16A085; color: #fff; padding: 12px 24px; border-radius: 30px; font-size: 1em; font-weight: bold; margin-right: 10px; display: inline-block;">
+      💡 Innovation
+    </span>
+    <span style="background-color: #8E44AD; color: #fff; padding: 12px 24px; border-radius: 30px; font-size: 1em; font-weight: bold; margin-right: 10px; display: inline-block;">
+      📊 Data Science
+    </span>
+    <span style="background-color: #F39C12; color: #fff; padding: 12px 24px; border-radius: 30px; font-size: 1em; font-weight: bold; display: inline-block;">
+      🤖 Machine Learning
+    </span>
+  </div>
+
+  <footer style="margin-top: 30px; font-size: 0.9em; color: #95A5A6;">
+    <p>Made with ❤️ by Sadik Al Jarif</p>
+  </footer>
 </section>
 
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  20% { transform: rotate(14deg); }
-  40% { transform: rotate(-8deg); }
-  60% { transform: rotate(14deg); }
-  80% { transform: rotate(-4deg); }
-  100% { transform: rotate(10deg); }
-}
-</style>
 
 
 
