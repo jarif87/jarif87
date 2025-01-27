@@ -1,8 +1,7 @@
 <h1 align="center" style="color: rgb(0, 123, 255);">Hi 👋, I'm Sadik Al Jarif</h1>
 
 <h3 align="center" style="color: rgb(255, 87, 51);">
-  A data enthusiast who believes every dataset holds a story waiting to be told. 
-  I turn raw numbers into meaningful insights, bridging the gap between complexity and clarity.
+  Data isn't just a collection of numbers. It's the narrative we uncover, the insights we discover and the future we create.
 </h3>
 
   
