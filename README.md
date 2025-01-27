@@ -1,17 +1,3 @@
-<h1 align="center" style="color: rgb(0, 123, 255);">Hi 👋, I'm Sadik Al Jarif</h1>
-
-<h3 align="center" style="color: rgb(255, 87, 51);">
-  Data isn't just a collection of numbers. It's the narrative we uncover, the insights we discover and the future we create.
-</h3>
-
-  
- 
-
-
-
-
-
-
 
 
 <div style="background: linear-gradient(145deg, #0D1117, #161B22); padding: 15px; border-radius: 16px; margin: 20px auto; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); border: 1px solid rgba(88, 166, 255, 0.1); text-align: center;">
