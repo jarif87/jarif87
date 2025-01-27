@@ -5,12 +5,11 @@
 
 
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jarif87" alt="jarif87" />
+<div style="background: linear-gradient(145deg, #0D1117, #161B22); padding: 25px; border-radius: 16px; margin: 20px auto; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); border: 1px solid rgba(88, 166, 255, 0.1); text-align: center;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;">
+    <img src="https://github-profile-trophy.vercel.app/?username=jarif87&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" alt="jarif87" style="width: 100%; max-width: 1200px; height: auto; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.01)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-</p>
-
+</div>
 
 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/evilspirit05)
 
