@@ -92,14 +92,60 @@
   <img src="https://img.shields.io/badge/Anomaly%20Detection-007ACC.svg?style=flat&logo=machine-learning&logoColor=white" alt="Anomaly Detection" />
 </p>
 
-<h3 align="left">Deep Learning:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/ANNs-007ACC.svg?style=flat&logo=deep-learning&logoColor=white" alt="Artificial Neural Networks" />
-  <img src="https://img.shields.io/badge/CNNs-007ACC.svg?style=flat&logo=deep-learning&logoColor=white" alt="Convolutional Neural Networks" />
-  <img src="https://img.shields.io/badge/RNNs-007ACC.svg?style=flat&logo=deep-learning&logoColor=white" alt="Recurrent Neural Networks" />
-  <img src="https://img.shields.io/badge/Transformers-007ACC.svg?style=flat&logo=deep-learning&logoColor=white" alt="Transformer Models" />
-  <img src="https://img.shields.io/badge/Transfer%20Learning-007ACC.svg?style=flat&logo=deep-learning&logoColor=white" alt="Transfer Learning" />
-</p>
+<h3 align="left">🧠 Deep Learning</h3>
+<div align="left">
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</a>
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</a>
+<a href="https://keras.io/" target="_blank">
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+</a>
+<a href="https://www.deeplearning.ai/" target="_blank">
+<img src="https://img.shields.io/badge/ANNs-00599C?style=for-the-badge&logo=neural-network&logoColor=white" alt="Artificial Neural Networks"/>
+</a>
+<a href="https://paperswithcode.com/method/cnn" target="_blank">
+<img src="https://img.shields.io/badge/CNNs-3DDC84?style=for-the-badge&logo=convolutional-network&logoColor=white" alt="Convolutional Neural Networks"/>
+</a>
+<a href="https://paperswithcode.com/method/rnn" target="_blank">
+<img src="https://img.shields.io/badge/RNNs-512BD4?style=for-the-badge&logo=recurrent-network&logoColor=white" alt="Recurrent Neural Networks"/>
+</a>
+<a href="https://huggingface.co/docs/transformers/index" target="_blank">
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=transformer&logoColor=black" alt="Transformers"/>
+</a>
+<a href="https://www.fast.ai/" target="_blank">
+<img src="https://img.shields.io/badge/fast.ai-00A98F?style=for-the-badge&logo=fastai&logoColor=white" alt="fast.ai"/>
+</a>
+<a href="https://jax.readthedocs.io/" target="_blank">
+<img src="https://img.shields.io/badge/JAX-A8B9CC?style=for-the-badge&logo=jax&logoColor=black" alt="JAX"/>
+</a>
+<a href="https://www.pytorchlightning.ai/" target="_blank">
+<img src="https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white" alt="PyTorch Lightning"/>
+</a>
+<a href="https://wandb.ai/" target="_blank">
+<img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/>
+</a>
+<a href="https://paperswithcode.com/method/lstm" target="_blank">
+<img src="https://img.shields.io/badge/LSTM-00FFFF?style=for-the-badge&logo=lstm&logoColor=black" alt="LSTM"/>
+</a>
+<a href="https://paperswithcode.com/method/gan" target="_blank">
+<img src="https://img.shields.io/badge/GANs-FF6F61?style=for-the-badge&logo=gan&logoColor=white" alt="GANs"/>
+</a>
+<a href="https://www.nvidia.com/en-us/data-center/cuda-toolkit/" target="_blank">
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
+</a>
+<a href="https://developer.nvidia.com/cudnn" target="_blank">
+<img src="https://img.shields.io/badge/cuDNN-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="cuDNN"/>
+</a>
+<a href="https://mxnet.apache.org/" target="_blank">
+<img src="https://img.shields.io/badge/MXNet-054ADA?style=for-the-badge&logo=apache&logoColor=white" alt="MXNet"/>
+</a>
+<a href="https://pytorch-geometric.readthedocs.io/" target="_blank">
+<img src="https://img.shields.io/badge/PyG-3C2179?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Geometric"/>
+</a>
+</div>
 
 <h3 align="left">MLOps Concepts:</h3>
 <p align="left">
