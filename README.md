@@ -82,15 +82,57 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
-<h3 align="left">Statistics and Probability (Advanced):</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Supervised%20Learning-007ACC.svg?style=flat&logo=machine-learning&logoColor=white" alt="Supervised Learning" />
-  <img src="https://img.shields.io/badge/Regression%20Algorithms-007ACC.svg?style=flat&logo=machine-learning&logoColor=white" alt="Regression Algorithms" />
-  <img src="https://img.shields.io/badge/Classification%20Algorithms-007ACC.svg?style=flat&logo=machine-learning&logoColor=white" alt="Classification Algorithms" />
-  <img src="https://img.shields.io/badge/Unsupervised%20Learning-007ACC.svg?style=flat&logo=machine-learning&logoColor=white" alt="Unsupervised Learning" />
-  <img src="https://img.shields.io/badge/Clustering-007ACC.svg?style=flat&logo=machine-learning&logoColor=white" alt="Clustering" />
-  <img src="https://img.shields.io/badge/Anomaly%20Detection-007ACC.svg?style=flat&logo=machine-learning&logoColor=white" alt="Anomaly Detection" />
-</p>
+<h3 align="left">📊 Statistics and Probability</h3>
+<div align="left">
+<a href="https://scikit-learn.org/stable/supervised_learning.html" target="_blank">
+<img src="https://img.shields.io/badge/Supervised_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Supervised Learning"/>
+</a>
+<a href="https://scikit-learn.org/stable/modules/linear_model.html" target="_blank">
+<img src="https://img.shields.io/badge/Regression_Analysis-40A0FF?style=for-the-badge&logo=math&logoColor=white" alt="Regression Analysis"/>
+</a>
+<a href="https://scikit-learn.org/stable/supervised_learning.html#supervised-learning" target="_blank">
+<img src="https://img.shields.io/badge/Classification-964B00?style=for-the-badge&logo=math&logoColor=white" alt="Classification"/>
+</a>
+<a href="https://scikit-learn.org/stable/unsupervised_learning.html" target="_blank">
+<img src="https://img.shields.io/badge/Unsupervised_Learning-00A98F?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Unsupervised Learning"/>
+</a>
+<a href="https://scikit-learn.org/stable/modules/clustering.html" target="_blank">
+<img src="https://img.shields.io/badge/Clustering-4B8BBE?style=for-the-badge&logo=math&logoColor=white" alt="Clustering"/>
+</a>
+<a href="https://scikit-learn.org/stable/modules/outlier_detection.html" target="_blank">
+<img src="https://img.shields.io/badge/Anomaly_Detection-FF4B4B?style=for-the-badge&logo=math&logoColor=white" alt="Anomaly Detection"/>
+</a>
+<a href="https://www.statsmodels.org/" target="_blank">
+<img src="https://img.shields.io/badge/Statistical_Models-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Statistical Models"/>
+</a>
+<a href="https://www.scipy.org/" target="_blank">
+<img src="https://img.shields.io/badge/Hypothesis_Testing-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="Hypothesis Testing"/>
+</a>
+<a href="https://www.statsmodels.org/stable/regression.html" target="_blank">
+<img src="https://img.shields.io/badge/Time_Series-FFD700?style=for-the-badge&logo=math&logoColor=black" alt="Time Series"/>
+</a>
+<a href="https://www.statsmodels.org/stable/distributions.html" target="_blank">
+<img src="https://img.shields.io/badge/Probability_Distributions-9C27B0?style=for-the-badge&logo=math&logoColor=white" alt="Probability Distributions"/>
+</a>
+<a href="https://www.statsmodels.org/stable/stats.html" target="_blank">
+<img src="https://img.shields.io/badge/Statistical_Inference-4CAF50?style=for-the-badge&logo=math&logoColor=white" alt="Statistical Inference"/>
+</a>
+<a href="https://www.statsmodels.org/stable/gam.html" target="_blank">
+<img src="https://img.shields.io/badge/Bayesian_Statistics-607D8B?style=for-the-badge&logo=math&logoColor=white" alt="Bayesian Statistics"/>
+</a>
+<a href="https://scikit-learn.org/stable/modules/cross_validation.html" target="_blank">
+<img src="https://img.shields.io/badge/Cross_Validation-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Cross Validation"/>
+</a>
+<a href="https://scikit-learn.org/stable/modules/grid_search.html" target="_blank">
+<img src="https://img.shields.io/badge/Hyperparameter_Tuning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Hyperparameter Tuning"/>
+</a>
+<a href="https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html" target="_blank">
+<img src="https://img.shields.io/badge/Correlation_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Correlation Analysis"/>
+</a>
+<a href="https://scikit-learn.org/stable/modules/feature_selection.html" target="_blank">
+<img src="https://img.shields.io/badge/Feature_Selection-2496ED?style=for-the-badge&logo=math&logoColor=white" alt="Feature Selection"/>
+</a>
+</div>
 
 <h3 align="left">🧠 Deep Learning</h3>
 <div align="left">
