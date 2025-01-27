@@ -4,25 +4,14 @@
   </h1>
   
   <p style="color: #BDC3C7; font-size: 1.1em; line-height: 1.6; font-style: italic; margin-bottom: 20px;">
-    "Data is not just numbers; it's the story we tell, the insight we gain, and the future we shape."
+    "Data isn't just a collection of numbers. It's the narrative we uncover, the insights we discover and the future we create."
   </p>
   
-  <div style="margin-top: 20px;">
-    <span style="background-color: #16A085; color: #fff; padding: 12px 24px; border-radius: 30px; font-size: 1em; font-weight: bold; margin-right: 10px; display: inline-block;">
-      💡 Innovation
-    </span>
-    <span style="background-color: #8E44AD; color: #fff; padding: 12px 24px; border-radius: 30px; font-size: 1em; font-weight: bold; margin-right: 10px; display: inline-block;">
-      📊 Data Science
-    </span>
-    <span style="background-color: #F39C12; color: #fff; padding: 12px 24px; border-radius: 30px; font-size: 1em; font-weight: bold; display: inline-block;">
-      🤖 Machine Learning
-    </span>
-  </div>
-
   <footer style="margin-top: 30px; font-size: 0.9em; color: #95A5A6;">
     <p>Made with ❤️ by Sadik Al Jarif</p>
   </footer>
 </section>
+
 
 
 
