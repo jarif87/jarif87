@@ -175,9 +175,6 @@
         <div style="transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(88, 166, 255, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
             <img src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub Stats" style="border-radius: 12px; width: 350px; height: auto; border: 1px solid rgba(88, 166, 255, 0.2);"/>
         </div>
-        <div style="transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(88, 166, 255, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-            <img src="https://streak-stats.demolab.com?user=jarif87&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF69B4&currStreakLabel=58A6FF" alt="GitHub Streak" style="border-radius: 12px; width: 350px; height: auto; border: 1px solid rgba(88, 166, 255, 0.2);"/>
-        </div>
     </div>
     <div style="margin-top: 30px; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(88, 166, 255, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarif87&bg_color=0D1117&color=58A6FF&line=FF69B4&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" style="border-radius: 12px; width: 100%; max-width: 1080px; height: auto; border: 1px solid rgba(88, 166, 255, 0.2);"/>
