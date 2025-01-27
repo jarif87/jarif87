@@ -1,18 +1,14 @@
-<h1 align="center" style="color: #2F80ED; font-size: 32px; font-weight: bold;">
-  Hi <span style="display: inline-block; animation: wave 1.5s infinite;">👋</span> I'm Sadik Al Jarif
-</h1>
-
-<h3 align="center" style="color: #777; font-style: italic; margin: 20px 0;">
-  "Without big data, you are blind and deaf and in the middle of a freeway"
-  <br>
-  <span style="color: #666; font-size: 0.9em;">– Geoffrey Moore</span>
-</h3>
-
-<p align="center" style="margin: 20px 0;">
-  <span style="background: #E3F2FD; color: #1565C0; padding: 8px 16px; border-radius: 20px; margin: 0 8px; display: inline-block;">🔬 Data Science</span>
-  <span style="background: #E8F5E9; color: #2E7D32; padding: 8px 16px; border-radius: 20px; margin: 0 8px; display: inline-block;">📊 Analytics</span>
-  <span style="background: #F3E5F5; color: #7B1FA2; padding: 8px 16px; border-radius: 20px; margin: 0 8px; display: inline-block;">🤖 Machine Learning</span>
-</p>
+<section style="background-color: #1e1e1e; padding: 40px 20px; border-radius: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); margin: 20px auto; max-width: 800px;">
+  <h1 align="center" style="color: #2F80ED; font-size: 36px; font-weight: bold; margin-bottom: 20px;">
+    Hi <span style="display: inline-block; animation: wave 1.5s infinite;">👋</span> I'm Sadik Al Jarif
+  </h1>
+  
+  <h3 align="center" style="color: #777; font-style: italic; margin: 20px 0; font-size: 1.1em;">
+    "Without big data, you are blind and deaf and in the middle of a freeway"
+    <br>
+    <span style="color: #666; font-size: 0.9em;">– Geoffrey Moore</span>
+  </h3>
+</section>
 
 <style>
 @keyframes wave {
@@ -24,7 +20,6 @@
   100% { transform: rotate(10deg); }
 }
 </style>
-
 
 
 
