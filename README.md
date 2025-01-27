@@ -114,25 +114,58 @@
   <img src="https://img.shields.io/badge/CI--CD%20for%20ML-007ACC.svg?style=flat&logo=ci-cd&logoColor=white" alt="CI/CD for ML" />
 </p>
 
-<h3 align="left">Large Language Models (LLMs):</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/LLMs-007ACC.svg?style=flat&logo=llms&logoColor=white" alt="LLMs" />
-</p>
+<h3 align="left">🤖 Large Language Models (LLMs)</h3>
+<div align="left">
+<a href="https://openai.com/" target="_blank">
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+</a>
+<a href="https://platform.openai.com/" target="_blank">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+</a>
+<a href="https://www.anthropic.com/" target="_blank">
+<img src="https://img.shields.io/badge/Claude-7F52FF?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+</a>
+<a href="https://bard.google.com/" target="_blank">
+<img src="https://img.shields.io/badge/Bard-886FBF?style=for-the-badge&logo=googlebard&logoColor=white" alt="Bard"/>
+</a>
+<a href="https://huggingface.co/" target="_blank">
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+</a>
+<a href="https://www.langchain.com/" target="_blank">
+<img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+</a>
+<a href="https://llamaindex.ai/" target="_blank">
+<img src="https://img.shields.io/badge/LlamaIndex-FF4B4B?style=for-the-badge&logo=llama&logoColor=white" alt="LlamaIndex"/>
+</a>
+<a href="https://github.com/microsoft/DeepSpeed" target="_blank">
+<img src="https://img.shields.io/badge/DeepSpeed-008AD7?style=for-the-badge&logo=microsoft&logoColor=white" alt="DeepSpeed"/>
+</a>
+<a href="https://www.pinecone.io/" target="_blank">
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+</a>
+<a href="https://python.langchain.com/docs/integrations/vectorstores/chroma" target="_blank">
+<img src="https://img.shields.io/badge/ChromaDB-00897B?style=for-the-badge&logo=chroma&logoColor=white" alt="ChromaDB"/>
+</a>
+<a href="https://www.cohere.ai/" target="_blank">
+<img src="https://img.shields.io/badge/Cohere-6C47FF?style=for-the-badge&logo=cohere&logoColor=white" alt="Cohere"/>
+</a>
+<a href="https://www.deeplearning.ai/" target="_blank">
+<img src="https://img.shields.io/badge/DeepLearning.AI-0AB2EA?style=for-the-badge&logo=deeplearning&logoColor=white" alt="DeepLearning.AI"/>
+</a>
+<a href="https://www.databricks.com/" target="_blank">
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+</a>
+<a href="https://gradio.app/" target="_blank">
+<img src="https://img.shields.io/badge/Gradio-F79939?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"/>
+</a>
+<a href="https://streamlit.io/" target="_blank">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</a>
+</div>
 
-<h3 align="left">Additional Tools and Technologies:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Gradio-00C5B6.svg?style=flat&logo=gradio&logoColor=white" alt="Gradio" />
-  <img src="https://img.shields.io/badge/Web%20Scraping-FF7F00.svg?style=flat&logo=webscraping&logoColor=white" alt="Web Scraping" />
-  <img src="https://img.shields.io/badge/Python%20Flask-000000.svg?style=flat&logo=flask&logoColor=white" alt="Python Flask" />
-  <img src="https://img.shields.io/badge/FastAPI-0097A7.svg?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/HTML-CB5E9D.svg?style=flat&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-264DE4.svg?style=flat&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
-</p>
 
 
-
+<h3 align="left">🛠️ Languages and Tools</h3>
 <div align="left">
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -210,6 +243,18 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </a>
 </div>
+
+<h3 align="left">Additional Tools and Technologies:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Gradio-00C5B6.svg?style=flat&logo=gradio&logoColor=white" alt="Gradio" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-FF7F00.svg?style=flat&logo=webscraping&logoColor=white" alt="Web Scraping" />
+  <img src="https://img.shields.io/badge/Python%20Flask-000000.svg?style=flat&logo=flask&logoColor=white" alt="Python Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-0097A7.svg?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/HTML-CB5E9D.svg?style=flat&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-264DE4.svg?style=flat&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
+</p>
 
 
 
