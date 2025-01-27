@@ -1,16 +1,17 @@
-<section style="background-color: #1a1a1a; padding: 40px 20px; border-radius: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); max-width: 800px; margin: 30px auto; text-align: center;">
+<section style="background-color: #1a1a1a; padding: 40px 20px; border-radius: 20px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); max-width: 800px; margin: 30px auto; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <h1 style="font-size: 40px; color: #F39C12; font-weight: bold; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 1.5px;">
-    Welcome to My World of Data and Innovation 🌟
+    Welcome to My World of Data and Innovation 
   </h1>
   
   <p style="color: #BDC3C7; font-size: 1.1em; line-height: 1.6; font-style: italic; margin-bottom: 20px;">
-    "Data isn't just a collection of numbers. It's the narrative we uncover, the insights we discover and the future we create."
+    "Data isn't just a collection of numbers. It's the narrative we uncover, the insights we discover, and the future we create."
   </p>
   
   <footer style="margin-top: 30px; font-size: 0.9em; color: #95A5A6;">
     <p>Made with ❤️ by Sadik Al Jarif</p>
   </footer>
 </section>
+
 
 
 
