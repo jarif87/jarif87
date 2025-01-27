@@ -22,21 +22,22 @@
 
 <p align="center">
   <a href="https://twitter.com/jarif84112354" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="margin-right: 10px;" />
   </a>
   <a href="https://linkedin.com/in/sadik-aljarif-3033351a6/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-right: 10px;" />
   </a>
   <a href="https://www.kaggle.com/evilspirit05" target="blank">
-    <img src="https://img.shields.io/badge/Kaggle-%2300B8B8?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" />
+    <img src="https://img.shields.io/badge/Kaggle-%2300B8B8?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge" style="margin-right: 10px;" />
   </a>
   <a href="https://fb.com/sadikal.jarif/" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-%231D82B6?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
+    <img src="https://img.shields.io/badge/Facebook-%231D82B6?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" style="margin-right: 10px;" />
   </a>
   <a href="https://medium.com/@sadikaljarif05" target="blank">
     <img src="https://img.shields.io/badge/Medium-%231572B6?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
   </a>
 </p>
+
 
 
 
