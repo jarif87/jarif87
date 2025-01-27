@@ -31,8 +31,7 @@
 
 
 
-
-<h3 align="left">Platforms:</h3>
+<h3 align="left">🛠️ Platforms</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Kaggle-%23005A4E.svg?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
   <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=flat&logo=googlecolab&logoColor=white" alt="Colab" />
@@ -174,8 +173,7 @@
 <img src="https://img.shields.io/badge/PyG-3C2179?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Geometric"/>
 </a>
 </div>
-
-<h3 align="left">MLOps</h3>
+<h3 align="left">⚙️ MLOps</h3>
 <div align="left">
 <a href="https://www.mlflow.org/" target="_blank">
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
