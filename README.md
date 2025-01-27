@@ -189,18 +189,63 @@
 </a>
 </div>
 
-<h3 align="left">MLOps Concepts:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/End--to--End%20ML%20Projects-007ACC.svg?style=flat&logo=mlops&logoColor=white" alt="End-to-End ML Projects" />
-  <img src="https://img.shields.io/badge/Productionizing%20ML%20Models-007ACC.svg?style=flat&logo=mlops&logoColor=white" alt="Productionizing ML Models" />
-  <img src="https://img.shields.io/badge/Shell%20Scripting-007ACC.svg?style=flat&logo=shell&logoColor=white" alt="Shell Scripting" />
-  <img src="https://img.shields.io/badge/MLOps%20Deployment%20%26%20Lifecycle-007ACC.svg?style=flat&logo=mlops&logoColor=white" alt="MLOps Deployment & Lifecycle" />
-  <img src="https://img.shields.io/badge/Fully%20Automated%20MLOps-007ACC.svg?style=flat&logo=mlops&logoColor=white" alt="Fully Automated MLOps" />
-  <img src="https://img.shields.io/badge/Data%20Pipelines-007ACC.svg?style=flat&logo=mlops&logoColor=white" alt="Data Pipelines" />
-  <img src="https://img.shields.io/badge/ML%20Monitoring%20in%20Python-007ACC.svg?style=flat&logo=mlops&logoColor=white" alt="ML Monitoring in Python" />
-  <img src="https://img.shields.io/badge/Docker-007ACC.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/CI--CD%20for%20ML-007ACC.svg?style=flat&logo=ci-cd&logoColor=white" alt="CI/CD for ML" />
-</p>
+<h3 align="left">MLOps</h3>
+<div align="left">
+<a href="https://www.mlflow.org/" target="_blank">
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+</a>
+<a href="https://www.kubeflow.org/" target="_blank">
+<img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubeflow"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</a>
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+</a>
+<a href="https://airflow.apache.org/" target="_blank">
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
+</a>
+<a href="https://www.jenkins.io/" target="_blank">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+</a>
+<a href="https://dvc.org/" target="_blank">
+<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
+</a>
+<a href="https://www.terraform.io/" target="_blank">
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+</a>
+<a href="https://www.ansible.com/" target="_blank">
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+</a>
+<a href="https://grafana.com/" target="_blank">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+</a>
+<a href="https://prometheus.io/" target="_blank">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+</a>
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://img.shields.io/badge/Shell_Scripting-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Shell Scripting"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://img.shields.io/badge/CI/CD-F05032?style=for-the-badge&logo=git&logoColor=white" alt="CI/CD"/>
+</a>
+<a href="https://www.datadoghq.com/" target="_blank">
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
+</a>
+<a href="https://wandb.ai/" target="_blank">
+<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/>
+</a>
+<a href="https://www.prefect.io/" target="_blank">
+<img src="https://img.shields.io/badge/Prefect-3366FF?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect"/>
+</a>
+<a href="https://www.seldon.io/" target="_blank">
+<img src="https://img.shields.io/badge/Seldon-5C2D91?style=for-the-badge&logo=seldon&logoColor=white" alt="Seldon"/>
+</a>
+<a href="https://bentoml.org/" target="_blank">
+<img src="https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logo=bento&logoColor=white" alt="BentoML"/>
+</a>
+</div>
 
 <h3 align="left">🤖 Large Language Models (LLMs)</h3>
 <div align="left">
