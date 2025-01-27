@@ -5,9 +5,9 @@
 
 
 
-<div style="background: linear-gradient(145deg, #0D1117, #161B22); padding: 25px; border-radius: 16px; margin: 20px auto; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); border: 1px solid rgba(88, 166, 255, 0.1); text-align: center;">
+<div style="background: linear-gradient(145deg, #0D1117, #161B22); padding: 15px; border-radius: 16px; margin: 20px auto; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); border: 1px solid rgba(88, 166, 255, 0.1); text-align: center;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;">
-    <img src="https://github-profile-trophy.vercel.app/?username=jarif87&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&row=1" alt="jarif87" style="width: 100%; max-width: 800px; height: auto; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.01)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=jarif87&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SSS,SS,S,AAA,AA,A&row=1" alt="jarif87" style="width: 100%; max-width: 600px; height: auto; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.01)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
 
