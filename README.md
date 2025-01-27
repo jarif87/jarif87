@@ -1,43 +1,33 @@
-<div style="background: linear-gradient(135deg, #0D1117, #161B22); padding: 40px; border-radius: 20px; text-align: center; margin: 20px auto; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); border: 1px solid rgba(88, 166, 255, 0.1);">
-    <div style="border-radius: 15px; padding: 30px; background: linear-gradient(145deg, rgba(88, 166, 255, 0.1), rgba(255, 105, 180, 0.1));">
-        <h1 style="font-size: 2.5em; margin: 0; background: linear-gradient(45deg, #58A6FF, #FF69B4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">
-            Hi <span style="display: inline-block; animation: wave 2s infinite; transform-origin: 70% 70%;">👋</span> I'm Sadik Al Jarif
-        </h1>
-        <div style="margin: 20px 0; padding: 20px; border-radius: 10px; background: linear-gradient(145deg, rgba(88, 166, 255, 0.05), rgba(255, 105, 180, 0.05));">
-            <h2 style="font-family: 'Courier New', monospace; color: #58A6FF; margin: 0; font-size: 1.2em; line-height: 1.6;">
-                "Without big data, you are blind and deaf<br>and in the middle of a freeway"<br>
-                <span style="color: #FF69B4; font-size: 0.9em;">– Geoffrey Moore</span>
-            </h2>
-        </div>
-        <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
-            <div style="background: linear-gradient(45deg, #58A6FF, #FF69B4); padding: 2px; border-radius: 8px;">
-                <div style="background: #0D1117; padding: 8px 15px; border-radius: 6px;">
-                    <span style="color: #FFFFFF;">🔬 Data Science</span>
-                </div>
-            </div>
-            <div style="background: linear-gradient(45deg, #58A6FF, #FF69B4); padding: 2px; border-radius: 8px;">
-                <div style="background: #0D1117; padding: 8px 15px; border-radius: 6px;">
-                    <span style="color: #FFFFFF;">📊 Analytics</span>
-                </div>
-            </div>
-            <div style="background: linear-gradient(45deg, #58A6FF, #FF69B4); padding: 2px; border-radius: 8px;">
-                <div style="background: #0D1117; padding: 8px 15px; border-radius: 6px;">
-                    <span style="color: #FFFFFF;">🤖 Machine Learning</span>
-                </div>
-            </div>
-        </div>
-    </div>
-    <style>
-        @keyframes wave {
-            0% { transform: rotate(0deg); }
-            20% { transform: rotate(14deg); }
-            40% { transform: rotate(-8deg); }
-            60% { transform: rotate(14deg); }
-            80% { transform: rotate(-4deg); }
-            100% { transform: rotate(10deg); }
-        }
-    </style>
-</div>
+<h1 align="center" style="color: #2F80ED; font-size: 32px; font-weight: bold;">
+  Hi <span style="display: inline-block; animation: wave 1.5s infinite;">👋</span> I'm Sadik Al Jarif
+</h1>
+
+<h3 align="center" style="color: #777; font-style: italic; margin: 20px 0;">
+  "Without big data, you are blind and deaf and in the middle of a freeway"
+  <br>
+  <span style="color: #666; font-size: 0.9em;">– Geoffrey Moore</span>
+</h3>
+
+<p align="center" style="margin: 20px 0;">
+  <span style="background: #E3F2FD; color: #1565C0; padding: 8px 16px; border-radius: 20px; margin: 0 8px; display: inline-block;">🔬 Data Science</span>
+  <span style="background: #E8F5E9; color: #2E7D32; padding: 8px 16px; border-radius: 20px; margin: 0 8px; display: inline-block;">📊 Analytics</span>
+  <span style="background: #F3E5F5; color: #7B1FA2; padding: 8px 16px; border-radius: 20px; margin: 0 8px; display: inline-block;">🤖 Machine Learning</span>
+</p>
+
+<style>
+@keyframes wave {
+  0% { transform: rotate(0deg); }
+  20% { transform: rotate(14deg); }
+  40% { transform: rotate(-8deg); }
+  60% { transform: rotate(14deg); }
+  80% { transform: rotate(-4deg); }
+  100% { transform: rotate(10deg); }
+}
+</style>
+
+
+
+
 
 
 <div style="background: linear-gradient(145deg, #0D1117, #161B22); padding: 15px; border-radius: 16px; margin: 20px auto; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); border: 1px solid rgba(88, 166, 255, 0.1); text-align: center;">
