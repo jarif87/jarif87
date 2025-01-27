@@ -3,9 +3,7 @@
 
 ![Data Science Image](https://miro.medium.com/max/1400/1*fNzeGVq-l02EA6d5jFzcsQ.webp)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jarif87&label=Profile%20views&color=0e75b6&style=flat" alt="jarif87" />
-</p>
+
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -13,11 +11,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/jarif84112354" target="blank">
-    <img src="https://img.shields.io/twitter/follow/jarif84112354?logo=twitter&style=for-the-badge" alt="jarif84112354" />
-  </a>
-</p>
 
 👨‍💻 All of my projects are available at [Kaggle](https://www.kaggle.com/evilspirit05)
 
