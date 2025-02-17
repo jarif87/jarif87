@@ -31,20 +31,6 @@
 
 
 
-<h3 align="left">🛠️ Platforms</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Kaggle-%23005A4E.svg?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=flat&logo=googlecolab&logoColor=white" alt="Colab" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Code%20Blocks-000000.svg?style=flat&logo=codeblocks&logoColor=white" alt="Code Blocks" />
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=flat&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
-  <img src="https://img.shields.io/badge/Deep%20Note-000000.svg?style=flat&logo=deepnote&logoColor=white" alt="Deep Note" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Jupyter%20Lab-F37626.svg?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Lab" />
-  <img src="https://img.shields.io/badge/Spyder-00A3E0.svg?style=flat&logo=spyder&logoColor=white" alt="Spyder" />
-</p>
-
 <h3 align="left">Data Science Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
@@ -361,17 +347,6 @@
 </a>
 </div>
 
-<h3 align="left">Additional Tools and Technologies:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Gradio-00C5B6.svg?style=flat&logo=gradio&logoColor=white" alt="Gradio" />
-  <img src="https://img.shields.io/badge/Web%20Scraping-FF7F00.svg?style=flat&logo=webscraping&logoColor=white" alt="Web Scraping" />
-  <img src="https://img.shields.io/badge/Python%20Flask-000000.svg?style=flat&logo=flask&logoColor=white" alt="Python Flask" />
-  <img src="https://img.shields.io/badge/FastAPI-0097A7.svg?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/HTML-CB5E9D.svg?style=flat&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-264DE4.svg?style=flat&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
-</p>
 
 
 
