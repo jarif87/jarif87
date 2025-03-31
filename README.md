@@ -335,10 +335,10 @@
             <img src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub Stats" style="border-radius: 12px; width: 350px; height: auto; border: 1px solid rgba(88, 166, 255, 0.2);"/>
         </div>
     </div>
-    <div style="margin-top: 30px; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(88, 166, 255, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+    <div style="margin: 30px auto 0; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer; display: block; max-width: 1080px;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(88, 166, 255, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarif87&bg_color=0D1117&color=58A6FF&line=FF69B4&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" style="border-radius: 12px; width: 100%; max-width: 1080px; height: auto; border: 1px solid rgba(88, 166, 255, 0.2);"/>
     </div>
-    <div style="margin-top: 20px;">
+    <div style="margin: 20px auto 0; display: inline-block;">
         <img src="https://komarev.com/ghpvc/?username=jarif87&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" style="border-radius: 6px;"/>
     </div>
 </section>
