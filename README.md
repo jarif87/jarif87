@@ -325,107 +325,20 @@
 
 
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Stats</title>
-    <style>
-        body {
-            background-color: #0D1117;
-            color: white;
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            margin: 0;
-            padding: 20px;
-        }
-        .stats-container {
-            background: linear-gradient(145deg, #0D1117, #161B22);
-            padding: 30px;
-            border-radius: 16px;
-            text-align: center;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
-            border: 1px solid rgba(88, 166, 255, 0.1);
-            max-width: 1200px;
-            width: 100%;
-        }
-        .stats-container h3 {
-            background: linear-gradient(90deg, #58A6FF, #FF69B4);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            font-size: 28px;
-            font-weight: 700;
-            margin-bottom: 30px;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-        }
-        .stats-wrapper {
-            display: flex;
-            justify-content: center;
-            gap: 25px;
-            flex-wrap: wrap;
-            margin: 20px auto;
-        }
-        .stats-wrapper div,
-        .contribution-graph {
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            cursor: pointer;
-        }
-        .stats-wrapper div:hover,
-        .contribution-graph:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 16px rgba(88, 166, 255, 0.2);
-        }
-        .stats-wrapper img,
-        .contribution-graph img {
-            border-radius: 12px;
-            border: 1px solid rgba(88, 166, 255, 0.2);
-            width: 100%;
-            max-width: 350px;
-            height: auto;
-        }
-        .contribution-graph img {
-            max-width: 1080px;
-        }
-        .profile-views {
-            margin-top: 20px;
-        }
-        .profile-views img {
-            border-radius: 6px;
-        }
-    </style>
-</head>
-<body>
-
-    <div class="stats-container">
-        <h3>⚡ GitHub Statistics ⚡</h3>
-
-        <div class="stats-wrapper">
-            <div>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarif87&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" 
-                     alt="Top Languages">
-            </div>
-            <div>
-                <img src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" 
-                     alt="GitHub Stats">
-            </div>
+<section style="background: linear-gradient(145deg, #0D1117, #161B22); padding: 30px; border-radius: 16px; text-align: center; margin: 30px auto; max-width: 1200px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); border: 1px solid rgba(88, 166, 255, 0.1);">
+    <h3 style="background: linear-gradient(90deg, #58A6FF, #FF69B4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 28px; font-weight: 700; margin-bottom: 30px; text-transform: uppercase; letter-spacing: 2px;">⚡ GitHub Statistics ⚡</h3>
+    <div style="display: flex; justify-content: center; align-items: center; gap: 25px; flex-wrap: wrap; margin: 20px auto;">
+        <div style="transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(88, 166, 255, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jarif87&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" style="border-radius: 12px; width: 350px; height: auto; border: 1px solid rgba(88, 166, 255, 0.2);"/>
         </div>
-
-        <div class="contribution-graph" style="margin-top: 30px;">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarif87&bg_color=0D1117&color=58A6FF&line=FF69B4&point=FFFFFF&area=true&hide_border=true" 
-                 alt="Contribution Graph">
-        </div>
-
-        <div class="profile-views">
-            <img src="https://komarev.com/ghpvc/?username=jarif87&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" 
-                 alt="Profile Views">
+        <div style="transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(88, 166, 255, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+            <img src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub Stats" style="border-radius: 12px; width: 350px; height: auto; border: 1px solid rgba(88, 166, 255, 0.2);"/>
         </div>
     </div>
-
-</body>
-</html>
+    <div style="margin-top: 30px; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 16px rgba(88, 166, 255, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarif87&bg_color=0D1117&color=58A6FF&line=FF69B4&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" style="border-radius: 12px; width: 100%; max-width: 1080px; height: auto; border: 1px solid rgba(88, 166, 255, 0.2);"/>
+    </div>
+    <div style="margin-top: 20px;">
+        <img src="https://komarev.com/ghpvc/?username=jarif87&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" style="border-radius: 6px;"/>
+    </div>
+</section>
