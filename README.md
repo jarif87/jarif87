@@ -104,111 +104,71 @@
   </div>
 </div>
 
-<h3 align="left">⚙️ MLOps</h3>
-<div align="left">
-<a href="https://www.mlflow.org/" target="_blank">
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-</a>
-<a href="https://www.kubeflow.org/" target="_blank">
-<img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubeflow"/>
-</a>
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</a>
-<a href="https://kubernetes.io/" target="_blank">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-</a>
-<a href="https://airflow.apache.org/" target="_blank">
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
-</a>
-<a href="https://www.jenkins.io/" target="_blank">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-</a>
-<a href="https://dvc.org/" target="_blank">
-<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
-</a>
-<a href="https://www.terraform.io/" target="_blank">
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-</a>
-<a href="https://www.ansible.com/" target="_blank">
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-</a>
-<a href="https://grafana.com/" target="_blank">
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-</a>
-<a href="https://prometheus.io/" target="_blank">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-</a>
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://img.shields.io/badge/Shell_Scripting-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Shell Scripting"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://img.shields.io/badge/CI/CD-F05032?style=for-the-badge&logo=git&logoColor=white" alt="CI/CD"/>
-</a>
-<a href="https://www.datadoghq.com/" target="_blank">
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
-</a>
-<a href="https://wandb.ai/" target="_blank">
-<img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/>
-</a>
-<a href="https://www.prefect.io/" target="_blank">
-<img src="https://img.shields.io/badge/Prefect-3366FF?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect"/>
-</a>
-<a href="https://www.seldon.io/" target="_blank">
-<img src="https://img.shields.io/badge/Seldon-5C2D91?style=for-the-badge&logo=seldon&logoColor=white" alt="Seldon"/>
-</a>
-<a href="https://bentoml.org/" target="_blank">
-<img src="https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logo=bento&logoColor=white" alt="BentoML"/>
-</a>
+<div align="center">
+  <h3 style="color: #58A6FF; font-size: 24px; font-weight: 700; margin-bottom: 15px;">⚙️ MLOps</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <a href="https://www.mlflow.org/" target="_blank">
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+    </a>
+    <a href="https://www.kubeflow.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </a>
+    <a href="https://kubernetes.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    </a>
+    <a href="https://airflow.apache.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
+    </a>
+    <a href="https://www.jenkins.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+    </a>
+    <a href="https://dvc.org/" target="_blank">
+      <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
+    </a>
+    <a href="https://grafana.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+    </a>
+    <a href="https://prometheus.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+    </a>
+    <a href="https://wandb.ai/" target="_blank">
+      <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/>
+    </a>
+  </div>
 </div>
 
-<h3 align="left">🤖 Large Language Models (LLMs)</h3>
-<div align="left">
-<a href="https://openai.com/" target="_blank">
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-</a>
-<a href="https://platform.openai.com/" target="_blank">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-</a>
-<a href="https://www.anthropic.com/" target="_blank">
-<img src="https://img.shields.io/badge/Claude-7F52FF?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-</a>
-<a href="https://bard.google.com/" target="_blank">
-<img src="https://img.shields.io/badge/Bard-886FBF?style=for-the-badge&logo=googlebard&logoColor=white" alt="Bard"/>
-</a>
-<a href="https://huggingface.co/" target="_blank">
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</a>
-<a href="https://www.langchain.com/" target="_blank">
-<img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-</a>
-<a href="https://llamaindex.ai/" target="_blank">
-<img src="https://img.shields.io/badge/LlamaIndex-FF4B4B?style=for-the-badge&logo=llama&logoColor=white" alt="LlamaIndex"/>
-</a>
-<a href="https://github.com/microsoft/DeepSpeed" target="_blank">
-<img src="https://img.shields.io/badge/DeepSpeed-008AD7?style=for-the-badge&logo=microsoft&logoColor=white" alt="DeepSpeed"/>
-</a>
-<a href="https://www.pinecone.io/" target="_blank">
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
-</a>
-<a href="https://python.langchain.com/docs/integrations/vectorstores/chroma" target="_blank">
-<img src="https://img.shields.io/badge/ChromaDB-00897B?style=for-the-badge&logo=chroma&logoColor=white" alt="ChromaDB"/>
-</a>
-<a href="https://www.cohere.ai/" target="_blank">
-<img src="https://img.shields.io/badge/Cohere-6C47FF?style=for-the-badge&logo=cohere&logoColor=white" alt="Cohere"/>
-</a>
-<a href="https://www.deeplearning.ai/" target="_blank">
-<img src="https://img.shields.io/badge/DeepLearning.AI-0AB2EA?style=for-the-badge&logo=deeplearning&logoColor=white" alt="DeepLearning.AI"/>
-</a>
-<a href="https://www.databricks.com/" target="_blank">
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
-</a>
-<a href="https://gradio.app/" target="_blank">
-<img src="https://img.shields.io/badge/Gradio-F79939?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"/>
-</a>
-<a href="https://streamlit.io/" target="_blank">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</a>
+
+<div align="center">
+  <h3 style="color: #58A6FF; font-size: 24px; font-weight: 700; margin-bottom: 15px;">🤖 Large Language Models (LLMs)</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <a href="https://openai.com/" target="_blank">
+      <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+    </a>
+    <a href="https://www.anthropic.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Claude-7F52FF?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+    </a>
+    <a href="https://huggingface.co/" target="_blank">
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+    </a>
+    <a href="https://www.langchain.com/" target="_blank">
+      <img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+    </a>
+    <a href="https://llamaindex.ai/" target="_blank">
+      <img src="https://img.shields.io/badge/LlamaIndex-FF4B4B?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex"/>
+    </a>
+    <a href="https://github.com/microsoft/DeepSpeed" target="_blank">
+      <img src="https://img.shields.io/badge/DeepSpeed-008AD7?style=for-the-badge&logo=microsoft&logoColor=white" alt="DeepSpeed"/>
+    </a>
+    <a href="https://www.pinecone.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+    </a>
+    <a href="https://python.langchain.com/docs/integrations/vectorstores/chroma" target="_blank">
+      <img src="https://img.shields.io/badge/ChromaDB-00897B?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB"/>
+    </a>
+  </div>
 </div>
 
 
