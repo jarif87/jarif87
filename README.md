@@ -2,7 +2,7 @@
 
 <div style="background: linear-gradient(145deg, #0D1117, #161B22); padding: 15px; border-radius: 16px; margin: 20px auto; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); border: 1px solid rgba(88, 166, 255, 0.1); text-align: center;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;">
-    <img src="https://github-profile-trophy.vercel.app/?username=jarif87&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2&margin-h=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,❤️,🎮,🎯,🏆,✨,⭐,🌟,🏅,🎖️,🔥,💫,💪,👻,🎨,🎭,🎪,🎢,🎡,🎠,🎪" alt="jarif87" style="width: 100%; max-width: 480px; height: auto; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.01)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=jarif87&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2&margin-h=2&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,❤️,🎮,🎯,🏆,✨,⭐,🌟,🏅,🎖️,🔥,💫,💪,👻,🎨,🎭,🎪,🎢,🎡,🎠,🎪" alt="jarif87" style="width: 100%; max-width: 320px; height: auto; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.01)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
 
@@ -141,6 +141,7 @@
 </div>
 
 
+
 <div align="center">
   <h3 style="color: #58A6FF; font-size: 24px; font-weight: 700; margin-bottom: 15px;">🤖 Large Language Models (LLMs)</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -150,6 +151,9 @@
     <a href="https://www.anthropic.com/" target="_blank">
       <img src="https://img.shields.io/badge/Claude-7F52FF?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
     </a>
+    <a href="https://www.x.ai/" target="_blank">
+      <img src="https://img.shields.io/badge/Grok-1E90FF?style=for-the-badge&logo=xai&logoColor=white" alt="Grok"/>
+    </a>
     <a href="https://huggingface.co/" target="_blank">
       <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
     </a>
@@ -158,6 +162,9 @@
     </a>
     <a href="https://llamaindex.ai/" target="_blank">
       <img src="https://img.shields.io/badge/LlamaIndex-FF4B4B?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex"/>
+    </a>
+    <a href="https://github.com/facebookresearch/faiss" target="_blank">
+      <img src="https://img.shields.io/badge/FAISS-FF6F61?style=for-the-badge&logo=facebook&logoColor=white" alt="FAISS"/>
     </a>
     <a href="https://github.com/microsoft/DeepSpeed" target="_blank">
       <img src="https://img.shields.io/badge/DeepSpeed-008AD7?style=for-the-badge&logo=microsoft&logoColor=white" alt="DeepSpeed"/>
