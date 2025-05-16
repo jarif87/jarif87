@@ -1,9 +1,16 @@
-<div style="background: linear-gradient(145deg, #0D1117, #161B22); padding: 15px; border-radius: 16px; margin: 0 auto; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); border: 1px solid rgba(88, 166, 255, 0.1); 
-            display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; gap: 8px; width: fit-content; max-width: 100%; text-align: center;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none; display: inline-flex; align-items: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=jarif87&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="jarif87" style="width: auto; height: auto; max-height: 50px; vertical-align: middle; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
+<div style="width: 100%; display: flex; justify-content: center;">
+  <div style="background: linear-gradient(145deg, #0D1117, #161B22); padding: 15px; border-radius: 16px;
+              box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4); border: 1px solid rgba(88, 166, 255, 0.1);
+              display: flex; justify-content: center; align-items: center; gap: 8px;
+              width: fit-content; max-width: 100%; text-align: center;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none; display: inline-flex; align-items: center;">
+      <img src="https://github-profile-trophy.vercel.app/?username=jarif87&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2&margin-h=2&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,,,,,,,,,,,,,,,,,,,," alt="jarif87" style="width: auto; max-width: 20px; height: auto; max-height: 10px; vertical-align: middle; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    </a>
+  </div>
 </div>
+
+
+
 
 
 
