@@ -191,41 +191,8 @@
     <a href="https://www.python.org" target="_blank">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     </a>
-    <a href="https://jupyter.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-    </a>
-    <a href="https://numpy.org/" target="_blank">
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-    </a>
     <a href="https://scipy.org/" target="_blank">
       <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    </a>
-    <a href="https://keras.io/" target="_blank",>
-      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-    </a>
-    <a href="https://pytorch.org/" target="_blank">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-    </a>
-    <a href="https://opencv.org/" target="_blank">
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-    </a>
-    <a href="https://matplotlib.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Seaborn-379F7A?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-    </a>
-    <a href="https://plotly.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
     </a>
     <a href="https://www.postgresql.org/" target="_blank">
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -239,21 +206,23 @@
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     </a>
-    <a href="https://aws.amazon.com/" target="_blank">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <a href="https://flask.palletsprojects.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
     </a>
-    <a href="https://cloud.google.com/" target="_blank">
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+    <a href="https://fastapi.tiangolo.com/" target="_blank">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
     </a>
-    <a href="https://www.docker.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <a href="https://www.javascript.com/" target="_blank">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     </a>
-    <a href="https://kubernetes.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <a href="https://www.djangoproject.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+    </a>
+    <a href="https://streamlit.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
     </a>
   </div>
 </div>
-
 
 <div align="center">
   <h3 style="color: #58A6FF; font-size: 24px; font-weight: 700; margin-bottom: 15px;">🔒 Ethical Hacking Arsenal</h3>
