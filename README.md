@@ -31,9 +31,8 @@
 
 
 
-
 <div align="center">
-  <h3 style="color: #58A6FF; font-size: 24px; font-weight: 700; margin-bottom: 15px;">📊 Statistics & Probability</h3>
+  <h3 style="color: #58A6FF; font-size: 24px; font-weight: 700; margin-bottom: 15px;">🦾 Machine Learning Techniques</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="https://scikit-learn.org/stable/supervised_learning.html" target="_blank">
       <img src="https://img.shields.io/badge/Supervised_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Supervised Learning"/>
@@ -41,32 +40,24 @@
     <a href="https://scikit-learn.org/stable/unsupervised_learning.html" target="_blank">
       <img src="https://img.shields.io/badge/Unsupervised_Learning-00A98F?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Unsupervised Learning"/>
     </a>
+    <a href="https://www.tensorflow.org/federated" target="_blank">
+      <img src="https://img.shields.io/badge/Federated_Learning-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Federated Learning"/>
+    </a>
+    <a href="https://www.deep-rl.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Reinforcement_Learning-FFD700?style=for-the-badge&logo=math&logoColor=black" alt="Reinforcement Learning"/>
+    </a>
     <a href="https://scikit-learn.org/stable/modules/clustering.html" target="_blank">
       <img src="https://img.shields.io/badge/Clustering-4B8BBE?style=for-the-badge&logo=math&logoColor=white" alt="Clustering"/>
-    </a>
-    <a href="https://scikit-learn.org/stable/supervised_learning.html#supervised-learning" target="_blank">
-      <img src="https://img.shields.io/badge/Classification-964B00?style=for-the-badge&logo=math&logoColor=white" alt="Classification"/>
-    </a>
-    <a href="https://scikit-learn.org/stable/modules/linear_model.html" target="_blank">
-      <img src="https://img.shields.io/badge/Regression_Analysis-40A0FF?style=for-the-badge&logo=math&logoColor=white" alt="Regression Analysis"/>
-    </a>
-    <a href="https://www.statsmodels.org/stable/stats.html" target="_blank">
-      <img src="https://img.shields.io/badge/Statistical_Inference-4CAF50?style=for-the-badge&logo=math&logoColor=white" alt="Statistical Inference"/>
-    </a>
-    <a href="https://www.statsmodels.org/stable/gam.html" target="_blank">
-      <img src="https://img.shields.io/badge/Bayesian_Statistics-607D8B?style=for-the-badge&logo=math&logoColor=white" alt="Bayesian Statistics"/>
-    </a>
-    <a href="https://www.statsmodels.org/stable/distributions.html" target="_blank">
-      <img src="https://img.shields.io/badge/Probability_Distributions-9C27B0?style=for-the-badge&logo=math&logoColor=white" alt="Probability Distributions"/>
     </a>
     <a href="https://www.statsmodels.org/stable/regression.html" target="_blank">
       <img src="https://img.shields.io/badge/Time_Series-FFD700?style=for-the-badge&logo=math&logoColor=black" alt="Time Series"/>
     </a>
-    <a href="https://www.deep-rl.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Reinforcement_Learning-4285F4?style=for-the-badge&logo=math&logoColor=white" alt="Reinforcement Learning"/>
+    <a href="https://www.tensorflow.org/tutorials/images/detection" target="_blank">
+      <img src="https://img.shields.io/badge/Object_Detection-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Object Detection"/>
     </a>
   </div>
 </div>
+      
 
 
 <div align="center">
