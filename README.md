@@ -102,6 +102,7 @@
   </div>
 </div>
 
+
 <div align="center">
   <h3 style="color: #58A6FF; font-size: 24px; font-weight: 700; margin-bottom: 15px;">⚙️ MLOps</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -109,31 +110,25 @@
       <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
     </a>
     <a href="https://www.kubeflow.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow"/>
+      <img src="https://img.shields.io/badge/Kubeflow-7B2BFF?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow"/>
     </a>
     <a href="https://www.docker.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     </a>
     <a href="https://kubernetes.io/" target="_blank">
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
     </a>
-    <a href="https://airflow.apache.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
-    </a>
-    <a href="https://www.jenkins.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-    </a>
     <a href="https://dvc.org/" target="_blank">
-      <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
+      <img src="https://img.shields.io/badge/DVC-FF6F61?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
     </a>
-    <a href="https://grafana.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+    <a href="https://aws.amazon.com/sagemaker/" target="_blank">
+      <img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SageMaker"/>
     </a>
-    <a href="https://prometheus.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+    <a href="https://cloud.google.com/vertex-ai" target="_blank">
+      <img src="https://img.shields.io/badge/Google_Vertex_AI-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Vertex AI"/>
     </a>
-    <a href="https://wandb.ai/" target="_blank">
-      <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/>
+    <a href="https://azure.microsoft.com/en-us/services/machine-learning/" target="_blank">
+      <img src="https://img.shields.io/badge/Azure_Machine_Learning-00BCD4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Machine Learning"/>
     </a>
   </div>
 </div>
