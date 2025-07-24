@@ -6,6 +6,9 @@
 
 
 
+
+
+
 <br></br>
 
 <p align="center">
@@ -25,6 +28,7 @@
     <img src="https://img.shields.io/badge/Medium-%231572B6?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" style="border-radius: 12px;" />
   </a>
 </p>
+
 
 
 
@@ -77,12 +81,6 @@
     <a href="https://keras.io/" target="_blank">
       <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
     </a>
-    <a href="https://paperswithcode.com/method/cnn" target="_blank">
-      <img src="https://img.shields.io/badge/CNNs-3DDC84?style=for-the-badge&logo=neural-network&logoColor=white" alt="Convolutional Neural Networks"/>
-    </a>
-    <a href="https://paperswithcode.com/method/rnn" target="_blank">
-      <img src="https://img.shields.io/badge/RNNs-512BD4?style=for-the-badge&logo=neural-network&logoColor=white" alt="Recurrent Neural Networks"/>
-    </a>
     <a href="https://huggingface.co/docs/transformers/index" target="_blank">
       <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=transformers&logoColor=black" alt="Transformers"/>
     </a>
@@ -92,14 +90,14 @@
     <a href="https://wandb.ai/" target="_blank">
       <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/>
     </a>
-    <a href="https://paperswithcode.com/method/lstm" target="_blank">
-      <img src="https://img.shields.io/badge/LSTM-00FFFF?style=for-the-badge&logo=neural-network&logoColor=black" alt="LSTM"/>
-    </a>
     <a href="https://paperswithcode.com/method/gan" target="_blank">
       <img src="https://img.shields.io/badge/GANs-FF6F61?style=for-the-badge&logo=neural-network&logoColor=white" alt="GANs"/>
     </a>
     <a href="https://www.nvidia.com/en-us/data-center/cuda-toolkit/" target="_blank">
       <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
+    </a>
+    <a href="https://www.fast.ai/" target="_blank">
+      <img src="https://img.shields.io/badge/FastAI-0078D4?style=for-the-badge&logo=fastai&logoColor=white" alt="FastAI"/>
     </a>
   </div>
 </div>
