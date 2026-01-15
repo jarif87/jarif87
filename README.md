@@ -266,30 +266,10 @@
 
 
 
-<div align="center">
-  <!-- Top Languages & GitHub Stats -->
-  <img src="https://github-profile-stats-xrcm.onrender.com/top-langs?username=jarif87&theme=blue" alt="Top Languages" width="495" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub Stats" width="350" />
-  <br/>
-  <!-- Language Bar Chart -->
-  <a href="https://github-profile-stats-xrcm.onrender.com/dashboard?username=jarif87">
-    <img src="https://github-profile-stats-xrcm.onrender.com/lang-chart?username=jarif87&theme=blue&top=8" alt="Language Usage" width="600" />
-  </a>
-  <br/>
-  <!-- Trophies -->
-  <img src="https://github-profile-stats-xrcm.onrender.com/trophies?username=jarif87&columns=6&theme=blue" alt="Trophies" width="1000" />
-  <br/>
-  <!-- Dashboard Button -->
-  <a href="https://github-profile-stats-xrcm.onrender.com/dashboard?username=jarif87">
-    <img src="https://img.shields.io/badge/View_Full_Dashboard-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Dashboard" />
-  </a>
-</div>
 
 
 
 
-
-## ⚡ GitHub Statistics
 ## ⚡ GitHub Statistics
 
 <div align="center">
