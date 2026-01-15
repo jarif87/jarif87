@@ -1,9 +1,4 @@
-<!-- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jarif87&theme=matrix&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="jarif87's GitHub Trophies">
-  </a>
-</p>
-  -->
+
 
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
@@ -297,22 +292,22 @@
 
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jarif87/jarif87/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 
 
 
 
-<div style="margin: 30px 0;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarif87&bg_color=0D1117&color=58A6FF&line=FF69B4&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" style="border-radius: 12px; width: 100%; max-width: 1080px; height: auto;" />
-  </div>
+
+
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarif87&bg_color=0D1117&color=58A6FF&line=FF69B4&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</div>
+   -->
   
-  <div style="margin: 20px 0;">
-    <img src="https://komarev.com/ghpvc/?username=jarif87&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" style="border-radius: 6px;" />
-  </div>
-</div> 
-
-
-
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jarif87&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
