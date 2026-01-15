@@ -293,6 +293,28 @@
 
 
 
+## ⚡ GitHub Statistics
+
+<div align="center">
+  
+  <!-- GitHub Stats Card with Languages -->
+  <img src="https://github-profile-stats-xrcm.onrender.com/stats?username=jarif87&theme=blue" alt="GitHub Stats" width="500" />
+  
+  <br/><br/>
+  
+  <!-- Trophies -->
+  <img src="https://github-profile-stats-xrcm.onrender.com/trophies?username=jarif87&columns=6&theme=blue" alt="Trophies" width="950" />
+  
+  <br/><br/>
+  
+  <!-- Dashboard Button -->
+  <a href="https://github-profile-stats-xrcm.onrender.com/dashboard?username=jarif87">
+    <img src="https://img.shields.io/badge/View_Full_Dashboard-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Dashboard" />
+  </a>
+  
+</div>
+
+
 
 
 
