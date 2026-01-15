@@ -5,11 +5,7 @@
 </p>
   -->
 
-<p align="center">
-  <a href="https://github-profile-stats-xrcm.onrender.com/dashboard?username=jarif87">
-    <img src="https://github-profile-stats-xrcm.onrender.com/trophies?username=jarif87&columns=6&theme=blue" alt="jarif87's GitHub Trophies">
-  </a>
-</p> 
+
 
 
 
