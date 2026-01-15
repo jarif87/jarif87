@@ -5,7 +5,15 @@
 </p>
   -->
 
-
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  
+  <img 
+    src="https://github-profile-stats-xrcm.onrender.com/trophies?username=jarif87&columns=6&theme=blue&v=4" 
+    alt="GitHub Trophies" 
+    width="1000"
+  />
+</div>
 
 
 
@@ -265,28 +273,27 @@
 
 
 
-
-
-
-
-
-## ⚡ GitHub Statistics
 <div align="center">
-  
-  <!-- 1. GitHub Stats ONLY -->
-  <img src="https://github-profile-stats-xrcm.onrender.com/stats?username=jarif87&theme=blue&v=3" alt="GitHub Stats" width="400" />
-  
-  <br/><br/>
-  
-  <!-- 2. Language Bar Chart ONLY -->
-  <img src="https://github-profile-stats-xrcm.onrender.com/languages?username=jarif87&theme=blue&top=10&v=3" alt="Most Used Languages" width="580" />
-  
-  <br/><br/>
-  
-  <!-- 3. Trophies ONLY -->
-  <img src="https://github-profile-stats-xrcm.onrender.com/trophies?username=jarif87&columns=6&theme=blue&v=3" alt="Trophies" width="1000" />
-  
+  <h3>⚡ GitHub Statistics</h3>
+
+  <img 
+    src="https://github-profile-stats-xrcm.onrender.com/stats?username=jarif87&theme=blue&v=4" 
+    alt="GitHub Stats" 
+    width="420"
+  />
+
+  <br><br>
+
+  <img 
+    src="https://github-profile-stats-xrcm.onrender.com/languages?username=jarif87&theme=blue&top=10&v=4" 
+    alt="Most Used Languages" 
+    width="620"
+  />
 </div>
+
+
+
+
 
 
 
