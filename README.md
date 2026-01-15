@@ -271,7 +271,6 @@
 
 
 ## ⚡ GitHub Statistics
-
 <div align="center">
   
   <!-- 1. GitHub Stats ONLY -->
@@ -288,6 +287,7 @@
   <img src="https://github-profile-stats-xrcm.onrender.com/trophies?username=jarif87&columns=6&theme=blue" alt="Trophies" width="1000" />
   
 </div>
+
 
 
 
