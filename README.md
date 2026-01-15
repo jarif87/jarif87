@@ -292,20 +292,14 @@
 
 
 
+
+
+
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jarif87/jarif87/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-
-
-
-
-
-
-<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarif87&bg_color=0D1117&color=58A6FF&line=FF69B4&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
-   -->
+   
   
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jarif87&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
