@@ -272,7 +272,6 @@
 
 
 
-
 <div align="center">
   <h3 style="color: #58A6FF; font-size: 28px; font-weight: 700; margin-bottom: 30px; text-transform: uppercase; letter-spacing: 2px;">⚡ GitHub Statistics ⚡</h3>
   
@@ -283,19 +282,10 @@
     <div>
       <img src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub Stats" style="border-radius: 12px; width: 350px; height: auto;" />
     </div>
-  </div>  
+  </div>   
 
 
 
-
-
-
-
-
-
-
-  
-  
 <div style="margin: 30px 0;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jarif87&bg_color=0D1117&color=58A6FF&line=FF69B4&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" style="border-radius: 12px; width: 100%; max-width: 1080px; height: auto;" />
   </div>
