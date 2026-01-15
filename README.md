@@ -274,20 +274,19 @@
 <div align="center">
   
   <!-- 1. GitHub Stats ONLY -->
-  <img src="https://github-profile-stats-xrcm.onrender.com/stats?username=jarif87&theme=blue" alt="GitHub Stats" width="400" />
+  <img src="https://github-profile-stats-xrcm.onrender.com/stats?username=jarif87&theme=blue&v=2" alt="GitHub Stats" width="400" />
   
   <br/><br/>
   
   <!-- 2. Language Bar Chart ONLY -->
-  <img src="https://github-profile-stats-xrcm.onrender.com/languages?username=jarif87&theme=blue&top=10" alt="Most Used Languages" width="540" />
+  <img src="https://github-profile-stats-xrcm.onrender.com/languages?username=jarif87&theme=blue&top=10&v=2" alt="Most Used Languages" width="540" />
   
   <br/><br/>
   
   <!-- 3. Trophies ONLY -->
-  <img src="https://github-profile-stats-xrcm.onrender.com/trophies?username=jarif87&columns=6&theme=blue" alt="Trophies" width="1000" />
+  <img src="https://github-profile-stats-xrcm.onrender.com/trophies?username=jarif87&columns=6&theme=blue&v=2" alt="Trophies" width="1000" />
   
 </div>
-
 
 
 
