@@ -270,18 +270,17 @@
 <div align="center">
   <h3>⚡ GitHub Statistics</h3>
   <img 
-    src="https://github-profile-stats-xrcm.onrender.com/stats?username=jarif87&theme=blue&v=5" 
+    src="https://github-profile-stats-xrcm.onrender.com/stats?username=jarif87&theme=blue&v=15" 
     alt="GitHub Stats" 
     width="420"
   />
   <br><br>
   <img 
-    src="https://github-profile-stats-xrcm.onrender.com/languages?username=jarif87&theme=blue&top=10&v=5" 
+    src="https://github-profile-stats-xrcm.onrender.com/languages?username=jarif87&theme=blue&top=10&v=15" 
     alt="Most Used Languages" 
     width="620"
   />
 </div>
-
 
 
 
