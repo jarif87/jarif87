@@ -2,8 +2,8 @@ name: Auto Update GitHub Trophy Stats
 
 on:
   schedule:
-    # Run daily at 00:00 UTC
-    - cron: '0 0 * * *'
+    # Run every 12 hours
+    - cron: '0 */12 * * *'
   workflow_dispatch: # optional manual trigger
 
 jobs:
@@ -13,8 +13,8 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Update trophy URL version
+      - name: Update trophy URL version (dry run)
         run: |
           TIMESTAMP=$(date +%s)
-          # Replace the old v= number with the new timestamp in README.md
+          # This will replace v= in README.md on the runner, but won't commit
           sed -i "s/v=[0-9]\+/v=${TIMESTAMP}/g" README.md
