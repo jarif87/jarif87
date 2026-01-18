@@ -4,17 +4,18 @@ on:
   schedule:
     # Run every 12 hours
     - cron: '0 */12 * * *'
-  workflow_dispatch: # optional manual trigger
+  workflow_dispatch:
 
 jobs:
   update-trophies:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Update trophy URL version (dry run)
         run: |
-          TIMESTAMP=$(date +%s)
-          # This will replace v= in README.md on the runner, but won't commit
+          TIMESTAMP=$(date +%Y%m%d)
+          # Replace any v=number with new cache value
           sed -i "s/v=[0-9]\+/v=${TIMESTAMP}/g" README.md
