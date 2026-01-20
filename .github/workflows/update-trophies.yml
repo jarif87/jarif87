@@ -9,13 +9,29 @@ on:
 jobs:
   update-trophies:
     runs-on: ubuntu-latest
-
+    
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
-
-      - name: Update trophy URL version (dry run)
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Update trophy URL version
         run: |
-          TIMESTAMP=$(date +%Y%m%d)
-          # Replace any v=number with new cache value
+          TIMESTAMP=$(date +%s)
+          # Replace v= parameter in README.md
           sed -i "s/v=[0-9]\+/v=${TIMESTAMP}/g" README.md
+      
+      - name: Check if changes exist
+        id: verify_diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push if changed
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Auto-update trophy stats timestamp"
+          git push
