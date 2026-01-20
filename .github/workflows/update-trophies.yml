@@ -1,11 +1,8 @@
 name: Auto Update GitHub Trophy Stats
-
 on:
   schedule:
-    # Run every 12 hours
-    - cron: '0 */12 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
-
 jobs:
   update-trophies:
     runs-on: ubuntu-latest
@@ -19,7 +16,6 @@ jobs:
       - name: Update trophy URL version
         run: |
           TIMESTAMP=$(date +%s)
-          # Replace v= parameter in README.md
           sed -i "s/v=[0-9]\+/v=${TIMESTAMP}/g" README.md
       
       - name: Check if changes exist
