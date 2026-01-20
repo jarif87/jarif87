@@ -13,6 +13,11 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       
+      - name: Wake up Render service
+        run: |
+          curl -s "https://github-profile-stats-xrcm.onrender.com/" || true
+          sleep 10
+      
       - name: Update trophy URL version
         run: |
           TIMESTAMP=$(date +%s)
