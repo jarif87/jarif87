@@ -16,6 +16,9 @@ jobs:
       - name: Wake up Render service
         run: |
           curl -s "https://github-profile-stats-xrcm.onrender.com/" || true
+          curl -s "https://github-profile-stats-xrcm.onrender.com/stats?username=jarif87&theme=blue" || true
+          curl -s "https://github-profile-stats-xrcm.onrender.com/trophies?username=jarif87&columns=6&theme=blue" || true
+          curl -s "https://github-profile-stats-xrcm.onrender.com/languages?username=jarif87&theme=blue&top=10" || true
           sleep 10
       
       - name: Update trophy URL version
