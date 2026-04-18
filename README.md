@@ -270,7 +270,7 @@
 <div align="center">
   <h3>⚡ GitHub Statistics</h3>
   <img 
-    src="https://github-profile-stats-xrcm.onrender.com/stats?username=jarif87&theme=blue&v=1776517571&t=refresh" 
+   src="https://github-stats-deployment.onrender.com/stats?username=jarif87&theme=midnight&v=1776517571&t=refresh" 
     alt="GitHub Stats" 
     width="420"
   />
