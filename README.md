@@ -4,10 +4,9 @@
   <img 
     src="https://github-stats-deployment.onrender.com/trophies?username=jarif87&columns=6&theme=ocean&v=1776517571&t=refresh" 
     alt="GitHub Trophies" 
-    width="1000"
+    width="750"
   />
 </div>
-
 
 
 
