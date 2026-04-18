@@ -1,37 +1,31 @@
 name: Auto Update GitHub Trophy Stats
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
-
 jobs:
   update-trophies:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      
       - name: Wake up Render service
         run: |
           curl -s "https://github-stats-deployment.onrender.com/" || true
           curl -s "https://github-stats-deployment.onrender.com/stats?username=jarif87&theme=midnight" || true
           curl -s "https://github-stats-deployment.onrender.com/trophies?username=jarif87&columns=6&theme=midnight" || true
           curl -s "https://github-stats-deployment.onrender.com/languages?username=jarif87&theme=midnight&top=10" || true
-          sleep 10
-      
+          sleep 60
       - name: Update trophy URL version
         run: |
           TIMESTAMP=$(date +%s)
           sed -i "s/v=[0-9]\+/v=${TIMESTAMP}/g" README.md
-      
       - name: Check if changes exist
         id: verify_diff
         run: |
           git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
-      
       - name: Commit and push if changed
         if: steps.verify_diff.outputs.changed == 'true'
         run: |
