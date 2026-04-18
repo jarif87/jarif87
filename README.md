@@ -276,7 +276,7 @@
   />
   <br><br>
   <img 
-    src="https://github-profile-stats-xrcm.onrender.com/languages?username=jarif87&theme=blue&top=10&v=1776517571&t=refresh" 
+   src="https://github-stats-deployment.onrender.com/languages?username=jarif87&theme=midnight&top=10&v=1776517571&t=refresh" 
     alt="Most Used Languages" 
     width="620"
   />
