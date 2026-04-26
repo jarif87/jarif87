@@ -1,51 +1,49 @@
-name: Auto Update GitHub Trophy Stats
-on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+- name: Wake up Render service
+  run: |
+    for i in 1 2 3 4 5; do
+      RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" --max-time 30 \
+        "https://github-stats-deployment.onrender.com/health")
+      echo "Attempt $i: HTTP $RESPONSE"
+      if [ "$RESPONSE" = "200" ]; then
+        echo "Server is warm!"
+        break
+      fi
+      sleep 20
+    done
 
-jobs:
-  update-trophies:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+- name: Pre-warm all endpoints (wait for actual data)
+  run: |
+    for i in 1 2 3; do
+      STATS=$(curl -s --max-time 60 \
+        "https://github-stats-deployment.onrender.com/stats?username=jarif87&theme=midnight")
+      if echo "$STATS" | grep -q "<svg"; then
+        echo "Stats endpoint warm ✓"
+        break
+      fi
+      echo "Stats not ready, retrying in 15s..."
+      sleep 15
+    done
 
-      - name: Wake up Render service
-        run: |
-          # First ping — wake up the server
-          curl -s --max-time 120 --retry 3 --retry-delay 15 \
-            "https://github-stats-deployment.onrender.com/health" || true
-          
-          # Wait for full warm-up
-          sleep 30
+    for i in 1 2 3; do
+      TROPHY=$(curl -s --max-time 60 \
+        "https://github-stats-deployment.onrender.com/trophies?username=jarif87&columns=6&theme=midnight")
+      if echo "$TROPHY" | grep -q "<svg"; then
+        echo "Trophies endpoint warm ✓"
+        break
+      fi
+      echo "Trophies not ready, retrying in 15s..."
+      sleep 15
+    done
 
-      - name: Hit all endpoints to cache data
-        run: |
-          curl -s --max-time 120 \
-            "https://github-stats-deployment.onrender.com/stats?username=jarif87&theme=midnight" || true
-          curl -s --max-time 120 \
-            "https://github-stats-deployment.onrender.com/trophies?username=jarif87&columns=6&theme=midnight" || true
-          curl -s --max-time 120 \
-            "https://github-stats-deployment.onrender.com/languages?username=jarif87&theme=midnight&top=10" || true
+    for i in 1 2 3; do
+      LANG=$(curl -s --max-time 60 \
+        "https://github-stats-deployment.onrender.com/languages?username=jarif87&theme=midnight&top=10")
+      if echo "$LANG" | grep -q "<svg"; then
+        echo "Languages endpoint warm ✓"
+        break
+      fi
+      echo "Languages not ready, retrying in 15s..."
+      sleep 15
+    done
 
-      - name: Update trophy URL version
-        run: |
-          TIMESTAMP=$(date +%s)
-          sed -i "s/v=[0-9]*/v=${TIMESTAMP}/g" README.md
-
-      - name: Check if changes exist
-        id: verify_diff
-        run: |
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
-
-      - name: Commit and push if changed
-        if: steps.verify_diff.outputs.changed == 'true'
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add README.md
-          git commit -m "Auto-update trophy stats timestamp"
-          git push
+    sleep 10
