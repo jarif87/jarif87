@@ -2,7 +2,7 @@
   <h3>🏆 GitHub Trophies</h3>
   
   <img 
-    src="https://github-stats-deployment.onrender.com/trophies?username=jarif87&columns=6&theme=ocean&v=1777233002&t=refresh" 
+    src="https://github-stats-deployment.onrender.com/trophies?username=jarif87&columns=6&theme=ocean&v=1777239886&t=refresh" 
     alt="GitHub Trophies" 
     width="800"
   />
@@ -268,13 +268,13 @@
 <div align="center">
   <h3>⚡ GitHub Statistics</h3>
   <img 
-   src="https://github-stats-deployment.onrender.com/stats?username=jarif87&theme=midnight&v=1777233002&t=refresh" 
+   src="https://github-stats-deployment.onrender.com/stats?username=jarif87&theme=midnight&v=1777239886&t=refresh" 
     alt="GitHub Stats" 
     width="420"
   />
   <br><br>
   <img 
-   src="https://github-stats-deployment.onrender.com/languages?username=jarif87&theme=midnight&top=10&v=1777233002&t=refresh" 
+   src="https://github-stats-deployment.onrender.com/languages?username=jarif87&theme=midnight&top=10&v=1777239886&t=refresh" 
     alt="Most Used Languages" 
     width="620"
   />
