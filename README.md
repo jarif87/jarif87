@@ -2,7 +2,7 @@
   <h3>🏆 GitHub Trophies</h3>
   
   <img 
-    src="https://github-stats-deployment.onrender.com/trophies?username=jarif87&columns=6&theme=ocean&v=1777298798" 
+    src="https://github-profile-trophy-liard-delta.vercel.app/?username=jarif87&theme=tokyonight" 
     alt="GitHub Trophies" 
     width="800"
   />
