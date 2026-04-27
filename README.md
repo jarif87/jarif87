@@ -268,19 +268,23 @@
 <div align="center">
   <h3>⚡ GitHub Statistics</h3>
   <img 
-   src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&theme=tokyonight" 
     alt="GitHub Stats" 
     width="420"
   />
   <br><br>
   <img 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarif87&layout=compact&theme=tokyonight" 
+    src="https://streak-stats.demolab.com/?user=jarif87&theme=tokyonight" 
+    alt="GitHub Streak" 
+    width="420"
+  />
+  <br><br>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarif87&layout=compact&theme=tokyonight" 
     alt="Most Used Languages" 
     width="620"
   />
 </div>
-
-
 
 
 
