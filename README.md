@@ -263,30 +263,26 @@
   </div>
 </div>
 
-
-
 <div align="center">
   <h3>⚡ GitHub Statistics</h3>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&theme=tokyonight" 
-    alt=1777308467"GitHub Stats" 
+    alt="GitHub Stats" 
     width="420"
   />
   <br><br>
   <img 
     src="https://streak-stats.demolab.com/?user=jarif87&theme=tokyonight" 
-    alt=1777308467"GitHub Streak" 
+    alt="GitHub Streak" 
     width="420"
   />
   <br><br>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarif87&layout=1777308467&theme=tokyonight" 
-    alt=1777308467"Most Used Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarif87&theme=tokyonight&layout=compact" 
+    alt="Most Used Languages" 
     width="620"
   />
 </div>
-
-
 
 
 
