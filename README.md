@@ -272,13 +272,13 @@
   />
   <br><br>
   <img 
-    src="https://streak-stats.demolab.com/?user=jarif87&theme=tokyonight" 
-    alt=1777313375"GitHub Streak" 
+    src="https://streak-stats.demolab.com/?user=jarif87&theme=tokyonigh" 
+    alt="GitHub Streak" 
     width="420"
   />
   <br><br>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarif87&theme=tokyonight"alt="Most Used Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarif87&theme=tokyonight&layout=compact"alt="Most Used Languages" 
     width="620"
   />
 </div>
