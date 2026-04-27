@@ -3,16 +3,13 @@ on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
-
 concurrency:
   group: trophy-update
   cancel-in-progress: false
-
 jobs:
   update-trophies:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -27,8 +24,8 @@ jobs:
           SUCCESS=false
           for i in $(seq 1 $MAX_ATTEMPTS); do
             HTTP=$(curl -s -o /dev/null -w "%{http_code}" \
-              --max-time 90 --connect-timeout 30 \
-              "https://github-stats-deployment.onrender.com/health")
+              --max-time 30 --connect-timeout 15 \
+              "https://github-stats-deployment.onrender.com/ping")
             echo "Attempt $i/$MAX_ATTEMPTS: HTTP $HTTP"
             if [ "$HTTP" = "200" ]; then
               echo "Server is live"
@@ -50,12 +47,11 @@ jobs:
           BASE="https://github-stats-deployment.onrender.com"
           USER="jarif87"
           FAILED=0
-
           check_endpoint() {
             local name=$1
             local url=$2
             for i in 1 2 3 4 5; do
-              RESP=$(curl -s --max-time 90 --connect-timeout 30 "$url")
+              RESP=$(curl -s --max-time 60 --connect-timeout 15 "$url")
               if echo "$RESP" | grep -q "<svg"; then
                 echo "OK: $name"
                 return 0
@@ -66,11 +62,9 @@ jobs:
             echo "FAILED: $name"
             return 1
           }
-
           check_endpoint "stats" "$BASE/stats?username=$USER&theme=midnight" || FAILED=1
           check_endpoint "trophies" "$BASE/trophies?username=$USER&columns=6&theme=midnight" || FAILED=1
           check_endpoint "languages" "$BASE/languages?username=$USER&theme=midnight&top=10" || FAILED=1
-
           if [ "$FAILED" = "1" ]; then
             exit 1
           fi
