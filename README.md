@@ -2,7 +2,7 @@
   <h3>🏆 GitHub Trophies</h3>
   
   <img 
-    src="https://trophy.benkou.dev/?username=jarif87&theme=matrix" 
+    src="https://trophy.benkou.dev/?username=jarif87&theme=algolia" 
     alt="GitHub Trophies" 
     width="800"
   />
