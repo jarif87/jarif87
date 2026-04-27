@@ -3,63 +3,48 @@ on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
+
 jobs:
   update-trophies:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4        # ← Fixed: v3 → v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Wake up Render service
         run: |
-          for i in 1 2 3 4 5; do
-            RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" --max-time 30 \
+          echo "Waking up Render (may take 60-90s on free tier)..."
+          for i in 1 2 3 4 5 6 7 8 9 10; do
+            RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" --max-time 60 \    # ← 30→60s timeout
               "https://github-stats-deployment.onrender.com/health")
             echo "Attempt $i: HTTP $RESPONSE"
             if [ "$RESPONSE" = "200" ]; then
               echo "Server is warm!"
               break
             fi
-            sleep 20
+            echo "Not ready, waiting 30s..."
+            sleep 30                     # ← 20→30s between retries
           done
 
       - name: Pre-warm all endpoints
         run: |
-          for i in 1 2 3; do
-            STATS=$(curl -s --max-time 60 \
-              "https://github-stats-deployment.onrender.com/stats?username=jarif87&theme=midnight")
-            if echo "$STATS" | grep -q "<svg"; then
-              echo "Stats endpoint warm"
-              break
-            fi
-            echo "Stats not ready, retrying in 15s..."
-            sleep 15
+          for endpoint in \
+            "stats?username=jarif87&theme=midnight" \
+            "trophies?username=jarif87&columns=6&theme=midnight" \
+            "languages?username=jarif87&theme=midnight&top=10"; do
+            for i in 1 2 3 4 5; do
+              RESP=$(curl -s --max-time 90 \                          # ← 60→90s timeout
+                "https://github-stats-deployment.onrender.com/$endpoint")
+              if echo "$RESP" | grep -q "<svg"; then
+                echo "$endpoint warm ✓"
+                break
+              fi
+              echo "$endpoint not ready (attempt $i), retrying in 20s..."
+              sleep 20
+            done
           done
-
-          for i in 1 2 3; do
-            TROPHY=$(curl -s --max-time 60 \
-              "https://github-stats-deployment.onrender.com/trophies?username=jarif87&columns=6&theme=midnight")
-            if echo "$TROPHY" | grep -q "<svg"; then
-              echo "Trophies endpoint warm"
-              break
-            fi
-            echo "Trophies not ready, retrying in 15s..."
-            sleep 15
-          done
-
-          for i in 1 2 3; do
-            LANG=$(curl -s --max-time 60 \
-              "https://github-stats-deployment.onrender.com/languages?username=jarif87&theme=midnight&top=10")
-            if echo "$LANG" | grep -q "<svg"; then
-              echo "Languages endpoint warm"
-              break
-            fi
-            echo "Languages not ready, retrying in 15s..."
-            sleep 15
-          done
-
           sleep 10
 
       - name: Update trophy URL version
