@@ -4,64 +4,93 @@ on:
     - cron: '0 * * * *'
   workflow_dispatch:
 
+concurrency:
+  group: trophy-update
+  cancel-in-progress: false
+
 jobs:
   update-trophies:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4        # ← Fixed: v3 → v4
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Wake up Render service
+        id: wake
         run: |
-          echo "Waking up Render (may take 60-90s on free tier)..."
-          for i in 1 2 3 4 5 6 7 8 9 10; do
-            RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" --max-time 60 \    # ← 30→60s timeout
+          MAX_ATTEMPTS=12
+          BASE_SLEEP=15
+          SUCCESS=false
+          for i in $(seq 1 $MAX_ATTEMPTS); do
+            HTTP=$(curl -s -o /dev/null -w "%{http_code}" \
+              --max-time 90 --connect-timeout 30 \
               "https://github-stats-deployment.onrender.com/health")
-            echo "Attempt $i: HTTP $RESPONSE"
-            if [ "$RESPONSE" = "200" ]; then
-              echo "Server is warm!"
+            echo "Attempt $i/$MAX_ATTEMPTS: HTTP $HTTP"
+            if [ "$HTTP" = "200" ]; then
+              echo "Server is live"
+              SUCCESS=true
               break
             fi
-            echo "Not ready, waiting 30s..."
-            sleep 30                     # ← 20→30s between retries
+            WAIT=$(( BASE_SLEEP * i ))
+            WAIT=$(( WAIT > 60 ? 60 : WAIT ))
+            echo "Sleeping ${WAIT}s..."
+            sleep $WAIT
           done
+          if [ "$SUCCESS" != "true" ]; then
+            echo "Server did not wake after $MAX_ATTEMPTS attempts"
+            exit 1
+          fi
 
-      - name: Pre-warm all endpoints
+      - name: Verify all endpoints return valid SVG
         run: |
-          for endpoint in \
-            "stats?username=jarif87&theme=midnight" \
-            "trophies?username=jarif87&columns=6&theme=midnight" \
-            "languages?username=jarif87&theme=midnight&top=10"; do
-            for i in 1 2 3 4 5; do
-              RESP=$(curl -s --max-time 90 \                          # ← 60→90s timeout
-                "https://github-stats-deployment.onrender.com/$endpoint")
-              if echo "$RESP" | grep -q "<svg"; then
-                echo "$endpoint warm ✓"
-                break
-              fi
-              echo "$endpoint not ready (attempt $i), retrying in 20s..."
-              sleep 20
-            done
-          done
-          sleep 10
+          BASE="https://github-stats-deployment.onrender.com"
+          USER="jarif87"
+          FAILED=0
 
-      - name: Update trophy URL version
+          check_endpoint() {
+            local name=$1
+            local url=$2
+            for i in 1 2 3 4 5; do
+              RESP=$(curl -s --max-time 90 --connect-timeout 30 "$url")
+              if echo "$RESP" | grep -q "<svg"; then
+                echo "OK: $name"
+                return 0
+              fi
+              echo "RETRY $i: $name not ready"
+              sleep $(( i * 10 ))
+            done
+            echo "FAILED: $name"
+            return 1
+          }
+
+          check_endpoint "stats" "$BASE/stats?username=$USER&theme=midnight" || FAILED=1
+          check_endpoint "trophies" "$BASE/trophies?username=$USER&columns=6&theme=midnight" || FAILED=1
+          check_endpoint "languages" "$BASE/languages?username=$USER&theme=midnight&top=10" || FAILED=1
+
+          if [ "$FAILED" = "1" ]; then
+            exit 1
+          fi
+
+      - name: Update README timestamp
         run: |
           TIMESTAMP=$(date +%s)
+          if ! grep -q "v=[0-9]" README.md; then
+            exit 0
+          fi
           sed -i "s/v=[0-9]*/v=${TIMESTAMP}/g" README.md
 
-      - name: Check if changes exist
-        id: verify_diff
-        run: |
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
-
       - name: Commit and push if changed
-        if: steps.verify_diff.outputs.changed == 'true'
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
           git add README.md
-          git commit -m "Auto-update trophy stats timestamp"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: auto-update trophy stats [skip ci]"
+            git push
+          fi
