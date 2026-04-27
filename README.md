@@ -4,7 +4,7 @@
   <img 
     src="https://trophy.benkou.dev/?username=jarif87&theme=algolia" 
     alt="GitHub Trophies" 
-    width="1024"
+    width="850"
   />
 </div>
 
