@@ -274,7 +274,7 @@
   />
   <br><br>
   <img 
-   src="https://github-stats-deployment.onrender.com/languages?username=jarif87&theme=midnight&top=10&v=1777298798&t=refresh" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" 
     alt="Most Used Languages" 
     width="620"
   />
