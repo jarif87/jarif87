@@ -3,6 +3,7 @@
   
   <img 
     src="https://trophy.benkou.dev/?username=jarif87&theme=algolia" 
+    alt="Github Trophies"
     width="850"
   />
 </div> 
@@ -277,8 +278,7 @@
   />
   <br><br>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarif87&theme=tokyonight&layout=1777313375" 
-    alt=1777313375"Most Used Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarif87&theme=tokyonight"alt="Most Used Languages" 
     width="620"
   />
 </div>
