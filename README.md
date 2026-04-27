@@ -3,10 +3,10 @@
   
   <img 
     src="https://trophy.benkou.dev/?username=jarif87&theme=algolia" 
-    alt=1777308467"GitHub Trophies" 
+    alt="GitHub Trophies" 
     width="850"
   />
-</div>
+</div> 
 
 
 <br></br>
