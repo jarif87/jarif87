@@ -2,7 +2,7 @@
   <h3>🏆 GitHub Trophies</h3>
   
   <img 
-    src="https://github-stats-deployment.onrender.com/trophies?username=jarif87&columns=6&theme=ocean&v=1777290518&t=refresh" 
+    src="https://github-stats-deployment.onrender.com/trophies?username=jarif87&columns=6&theme=ocean&v=2000000000" 
     alt="GitHub Trophies" 
     width="800"
   />
