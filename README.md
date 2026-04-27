@@ -3,7 +3,6 @@
   
   <img 
     src="https://trophy.benkou.dev/?username=jarif87&theme=algolia" 
-    alt=1777313375"GitHub Trophies" 
     width="850"
   />
 </div> 
