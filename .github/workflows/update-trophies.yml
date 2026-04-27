@@ -72,10 +72,9 @@ jobs:
       - name: Update README timestamp
         run: |
           TIMESTAMP=$(date +%s)
-          if ! grep -q "v=[0-9]" README.md; then
-            exit 0
-          fi
           sed -i "s/v=[0-9]*/v=${TIMESTAMP}/g" README.md
+          sed -i "s/t=[a-zA-Z0-9]*/t=${TIMESTAMP}/g" README.md
+          echo "Updated timestamp to $TIMESTAMP"
 
       - name: Commit and push if changed
         run: |
