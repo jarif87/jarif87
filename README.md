@@ -278,7 +278,8 @@
   />
   <br><br>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?       username=jarif87&theme=tokyonight&layout=compact"alt="Most Used Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarif87&theme=tokyonight&layout=compact" 
+    alt="Most Used Languages" 
     width="620"
   />
 </div>
