@@ -268,7 +268,7 @@
 <div align="center">
   <h3>⚡ GitHub Statistics</h3>
   <img 
-   src="https://github-stats-deployment.onrender.com/stats?username=jarif87&theme=midnight&v=1777298798&t=refresh" 
+   src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&theme=tokyonight" 
     alt="GitHub Stats" 
     width="420"
   />
