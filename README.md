@@ -274,7 +274,7 @@
   />
   <br><br>
   <img 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarif87&layout=compact&theme=tokyonight" 
     alt="Most Used Languages" 
     width="620"
   />
