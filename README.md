@@ -266,9 +266,10 @@
 <div align="center">
   <h3>⚡ GitHub Statistics</h3>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=jarif87&show_icons=true&theme=tokyonight" 
     alt="GitHub Stats" 
     width="420"
+    loading="eager"
   />
   <br><br>
   <img 
