@@ -267,7 +267,7 @@
   <h3>⚡ GitHub Statistics</h3>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=jarif87&show_icons=true&theme=tokyonight" 
-    alt=1777313375"GitHub Stats" 
+    alt="GitHub Stats" 
     width="420"
   />
   <br><br>
