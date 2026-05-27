@@ -279,7 +279,7 @@
   />
   <br><br>
   <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jarif87&theme=tokyonight" 
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jarif87&layout=compact&theme=tokyonight" 
     alt="Most Used Languages" 
     width="620"
   />
