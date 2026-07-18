@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/sadik-aljarif-3033351a6/" target=1777313375"blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt=1777313375"LinkedIn Badge" style="margin-right: 10px; border-radius: 12px;" />
   </a>
-  <a href="https://www.kaggle.com/evilspirit05" target=1777313375"blank">
+  <a href="https://www.kaggle.com/#" target=1777313375"blank">
     <img src="https://img.shields.io/badge/Kaggle-%2300B8B8?style=for-the-badge&logo=kaggle&logoColor=white" alt=1777313375"Kaggle Badge" style="margin-right: 10px; border-radius: 12px;" />
   </a>
   <a href="https://fb.com/sadikal.jarif/" target=1777313375"blank">
