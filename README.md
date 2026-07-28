@@ -93,40 +93,28 @@
 
 
 
+
+
 <div align="center">
-  <h3 style="color: #58A6FF; font-size: 24px; font-weight: 700; margin-bottom: 15px;">🤖 Large Language Models (LLMs)</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="https://openai.com/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt=1777313375"ChatGPT"/>
-    </a>
-    <a href="https://www.anthropic.com/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Claude-7F52FF?style=for-the-badge&logo=anthropic&logoColor=white" alt=1777313375"Claude"/>
-    </a>
-    <a href="https://www.x.ai/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Grok-1E90FF?style=for-the-badge&logo=xai&logoColor=white" alt=1777313375"Grok"/>
-    </a>
-    <a href="https://huggingface.co/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt=1777313375"Hugging Face"/>
-    </a>
-    <a href="https://www.langchain.com/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white" alt=1777313375"LangChain"/>
-    </a>
-    <a href="https://llamaindex.ai/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/LlamaIndex-FF4B4B?style=for-the-badge&logo=llamaindex&logoColor=white" alt=1777313375"LlamaIndex"/>
-    </a>
-    <a href="https://github.com/facebookresearch/faiss" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/FAISS-FF6F61?style=for-the-badge&logo=facebook&logoColor=white" alt=1777313375"FAISS"/>
-    </a>
-    <a href="https://github.com/microsoft/DeepSpeed" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/DeepSpeed-008AD7?style=for-the-badge&logo=microsoft&logoColor=white" alt=1777313375"DeepSpeed"/>
-    </a>
-    <a href="https://www.pinecone.io/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt=1777313375"Pinecone"/>
-    </a>
-    <a href="https://python.langchain.com/docs/integrations/vectorstores/chroma" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/ChromaDB-00897B?style=for-the-badge&logo=chromadb&logoColor=white" alt=1777313375"ChromaDB"/>
-    </a>
-  </div>
+  <h3>🤖 Large Language Models (LLMs)</h3>
+  <table align="center" border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <td><a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/></a></td>
+    <td><a href="https://www.anthropic.com/" target="_blank"><img src="https://img.shields.io/badge/Claude-7F52FF?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/></a></td>
+    <td><a href="https://www.x.ai/" target="_blank"><img src="https://img.shields.io/badge/Grok-1E90FF?style=for-the-badge&logo=xai&logoColor=white" alt="Grok"/></a></td>
+    <td><a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a></td>
+    <td><a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a></td>
+    <td><a href="https://llamaindex.ai/" target="_blank"><img src="https://img.shields.io/badge/LlamaIndex-FF4B4B?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex"/></a></td>
+    <td><a href="https://github.com/facebookresearch/faiss" target="_blank"><img src="https://img.shields.io/badge/FAISS-FF6F61?style=for-the-badge&logo=facebook&logoColor=white" alt="FAISS"/></a></td>
+    <td><a href="https://github.com/microsoft/DeepSpeed" target="_blank"><img src="https://img.shields.io/badge/DeepSpeed-008AD7?style=for-the-badge&logo=microsoft&logoColor=white" alt="DeepSpeed"/></a></td>
+  </tr>
+  </table>
+  <table align="center" border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <td><a href="https://www.pinecone.io/" target="_blank"><img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/></a></td>
+    <td><a href="https://python.langchain.com/docs/integrations/vectorstores/chroma" target="_blank"><img src="https://img.shields.io/badge/ChromaDB-00897B?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB"/></a></td>
+  </tr>
+  </table>
 </div>
 
 
