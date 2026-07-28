@@ -10,15 +10,17 @@
 
 
 
-<table align="center" border="0" cellspacing="8" cellpadding="0">
-<tr>
-<td><a href="https://twitter.com/jarif84112354" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/></a></td>
-<td><a href="https://linkedin.com/in/sadik-aljarif-3033351a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></td>
-<td><a href="https://www.kaggle.com/#" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2300B8B8?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle Badge"/></a></td>
-<td><a href="https://fb.com/sadikal.jarif/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231D82B6?style=plastic&logo=facebook&logoColor=white" alt="Facebook Badge"/></a></td>
-<td><a href="https://medium.com/@sadikaljarif05" target="_blank"><img src="https://img.shields.io/badge/Medium-%231572B6?style=plastic&logo=medium&logoColor=white" alt="Medium Badge"/></a></td>
-</tr>
-</table>
+<div align="center">
+  <table align="center" border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <td><a href="https://twitter.com/jarif84112354" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a></td>
+    <td><a href="https://linkedin.com/in/sadik-aljarif-3033351a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
+    <td><a href="https://www.kaggle.com/#" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2300B8B8?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a></td>
+    <td><a href="https://fb.com/sadikal.jarif/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231D82B6?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a></td>
+    <td><a href="https://medium.com/@sadikaljarif05" target="_blank"><img src="https://img.shields.io/badge/Medium-%231572B6?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a></td>
+  </tr>
+  </table>
+</div>
 
 
 <div align="center">
