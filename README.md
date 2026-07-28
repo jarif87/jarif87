@@ -69,34 +69,26 @@
 </div>
 
 
+
+
 <div align="center">
-  <h3 style="color: #58A6FF; font-size: 24px; font-weight: 700; margin-bottom: 15px;">⚙️ MLOps</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="https://www.mlflow.org/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt=1777313375"MLflow"/>
-    </a>
-    <a href="https://www.kubeflow.org/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Kubeflow-7B2BFF?style=for-the-badge&logo=kubeflow&logoColor=white" alt=1777313375"Kubeflow"/>
-    </a>
-    <a href="https://www.docker.com/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" alt=1777313375"Docker"/>
-    </a>
-    <a href="https://kubernetes.io/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt=1777313375"Kubernetes"/>
-    </a>
-    <a href="https://dvc.org/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/DVC-FF6F61?style=for-the-badge&logo=dvc&logoColor=white" alt=1777313375"DVC"/>
-    </a>
-    <a href="https://aws.amazon.com/sagemaker/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt=1777313375"AWS SageMaker"/>
-    </a>
-    <a href="https://cloud.google.com/vertex-ai" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Google_Vertex_AI-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" alt=1777313375"Google Vertex AI"/>
-    </a>
-    <a href="https://azure.microsoft.com/en-us/services/machine-learning/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Azure_Machine_Learning-00BCD4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt=1777313375"Azure Machine Learning"/>
-    </a>
-  </div>
+  <h3>⚙️ MLOps</h3>
+  <table align="center" border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <td><a href="https://www.mlflow.org/" target="_blank"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></a></td>
+    <td><a href="https://www.kubeflow.org/" target="_blank"><img src="https://img.shields.io/badge/Kubeflow-7B2BFF?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow"/></a></td>
+    <td><a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a></td>
+    <td><a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a></td>
+    <td><a href="https://dvc.org/" target="_blank"><img src="https://img.shields.io/badge/DVC-FF6F61?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/></a></td>
+    <td><a href="https://aws.amazon.com/sagemaker/" target="_blank"><img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SageMaker"/></a></td>
+    <td><a href="https://cloud.google.com/vertex-ai" target="_blank"><img src="https://img.shields.io/badge/Google_Vertex_AI-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Vertex AI"/></a></td>
+  </tr>
+  </table>
+  <table align="center" border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <td><a href="https://azure.microsoft.com/en-us/services/machine-learning/" target="_blank"><img src="https://img.shields.io/badge/Azure_Machine_Learning-00BCD4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Machine Learning"/></a></td>
+  </tr>
+  </table>
 </div>
 
 
