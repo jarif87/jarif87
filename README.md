@@ -9,24 +9,12 @@
 </div> 
 
 
-<br></br>
-
 <p align="center">
-  <a href="https://twitter.com/jarif84112354" target=1777313375"blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=1777313375"Twitter Badge" style="margin-right: 10px; border-radius: 12px;" />
-  </a>
-  <a href="https://linkedin.com/in/sadik-aljarif-3033351a6/" target=1777313375"blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt=1777313375"LinkedIn Badge" style="margin-right: 10px; border-radius: 12px;" />
-  </a>
-  <a href="https://www.kaggle.com/#" target=1777313375"blank">
-    <img src="https://img.shields.io/badge/Kaggle-%2300B8B8?style=for-the-badge&logo=kaggle&logoColor=white" alt=1777313375"Kaggle Badge" style="margin-right: 10px; border-radius: 12px;" />
-  </a>
-  <a href="https://fb.com/sadikal.jarif/" target=1777313375"blank">
-    <img src="https://img.shields.io/badge/Facebook-%231D82B6?style=for-the-badge&logo=facebook&logoColor=white" alt=1777313375"Facebook Badge" style="margin-right: 10px; border-radius: 12px;" />
-  </a>
-  <a href="https://medium.com/@sadikaljarif05" target=1777313375"blank">
-    <img src="https://img.shields.io/badge/Medium-%231572B6?style=for-the-badge&logo=medium&logoColor=white" alt=1777313375"Medium Badge" style="border-radius: 12px;" />
-  </a>
+  <a href="https://twitter.com/jarif84112354" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="https://linkedin.com/in/sadik-aljarif-3033351a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.kaggle.com/#" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2300B8B8?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/></a>
+  <a href="https://fb.com/sadikal.jarif/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231D82B6?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
+  <a href="https://medium.com/@sadikaljarif05" target="_blank"><img src="https://img.shields.io/badge/Medium-%231572B6?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
 </p>
 
 
