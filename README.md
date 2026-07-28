@@ -118,57 +118,43 @@
 </div>
 
 
-
 <div align="center">
-  <h3 style="color: #58A6FF; font-size: 24px; font-weight: 700; margin-bottom: 15px;">🛠️ Languages & Tools</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="https://www.cprogramming.com/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt=1777313375"C"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=1777313375"C++"/>
-    </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt=1777313375"C#"/>
-    </a>
-    <a href="https://www.r-project.org/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt=1777313375"R"/>
-    </a>
-    <a href="https://www.python.org" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=1777313375"Python"/>
-    </a>
-    <a href="https://scipy.org/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt=1777313375"SciPy"/>
-    </a>
-    <a href="https://www.postgresql.org/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt=1777313375"PostgreSQL"/>
-    </a>
-    <a href="https://www.mysql.com/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt=1777313375"MySQL"/>
-    </a>
-    <a href="https://www.mongodb.com/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt=1777313375"MongoDB"/>
-    </a>
-    <a href="https://git-scm.com/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt=1777313375"Git"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt=1777313375"Flask"/>
-    </a>
-    <a href="https://fastapi.tiangolo.com/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt=1777313375"FastAPI"/>
-    </a>
-    <a href="https://www.javascript.com/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt=1777313375"JavaScript"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt=1777313375"Django"/>
-    </a>
-    <a href="https://streamlit.io/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt=1777313375"Streamlit"/>
-    </a>
-  </div>
+  <h3>🛠️ Languages & Tools</h3>
+  <table align="center" border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <td><a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a></td>
+    <td><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a></td>
+    <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></a></td>
+    <td><a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/></a></td>
+    <td><a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a></td>
+    <td><a href="https://scipy.org/" target="_blank"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/></a></td>
+    <td><a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a></td>
+    <td><a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a></td>
+    <td><a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a></td>
+    <td><a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a></td>
+  </tr>
+  </table>
+  <table align="center" border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <td><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a></td>
+    <td><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a></td>
+    <td><a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a></td>
+    <td><a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a></td>
+    <td><a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a></td>
+  </tr>
+  </table>
 </div>
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
   <h3 style="color: #58A6FF; font-size: 24px; font-weight: 700; margin-bottom: 15px;">🔒 Ethical Hacking Arsenal</h3>
