@@ -153,7 +153,6 @@
 
 
 
-
 <div align="center">
   <h3>🔒 Ethical Hacking Arsenal</h3>
   
@@ -174,12 +173,12 @@
     <td><a href="https://github.com/laramies/theHarvester" target="_blank"><img src="https://img.shields.io/badge/theHarvester-FF6F61?style=for-the-badge&logo=theharvester&logoColor=white" alt="theHarvester"/></a></td>
     <td><a href="https://hashcat.net/" target="_blank"><img src="https://img.shields.io/badge/Hashcat-F4C430?style=for-the-badge&logo=hashcat&logoColor=black" alt="Hashcat"/></a></td>
     <td><a href="https://www.tenable.com/products/nessus" target="_blank"><img src="https://img.shields.io/badge/Nessus-00B9E4?style=for-the-badge&logo=nessus&logoColor=white" alt="Nessus"/></a></td>
+    <td><a href="https://www.exploit-db.com/searchsploit" target="_blank"><img src="https://img.shields.io/badge/Searchsploit-EA2D2E?style=for-the-badge&logo=exploitdb&logoColor=white" alt="Searchsploit"/></a></td>
   </tr>
   </table>
   
   <table align="center" border="0" cellspacing="8" cellpadding="0">
   <tr>
-    <td><a href="https://www.exploit-db.com/searchsploit" target="_blank"><img src="https://img.shields.io/badge/Searchsploit-EA2D2E?style=for-the-badge&logo=exploitdb&logoColor=white" alt="Searchsploit"/></a></td>
     <td><a href="https://www.bettercap.org/" target="_blank"><img src="https://img.shields.io/badge/Bettercap-2ECC71?style=for-the-badge&logo=bettercap&logoColor=white" alt="Bettercap"/></a></td>
     <td><a href="https://ettercap.github.io/ettercap/" target="_blank"><img src="https://img.shields.io/badge/Ettercap-9B59B6?style=for-the-badge&logo=ettercap&logoColor=white" alt="Ettercap"/></a></td>
     <td><a href="https://github.com/threat9/routersploit" target="_blank"><img src="https://img.shields.io/badge/Routersploit-FF9900?style=for-the-badge&logo=routersploit&logoColor=white" alt="Routersploit"/></a></td>
@@ -187,7 +186,6 @@
   </table>
   
 </div>
-
 
 
 
