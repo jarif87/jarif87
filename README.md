@@ -23,23 +23,20 @@
 
 <div align="center">
   <h3>🦾 Machine Learning Techniques</h3>
-
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="https://img.shields.io/badge/Supervised_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Supervised Learning">
-    <img src="https://img.shields.io/badge/Unsupervised_Learning-00A98F?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Unsupervised Learning">
-    <img src="https://img.shields.io/badge/Federated_Learning-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Federated Learning">
-    <img src="https://img.shields.io/badge/Reinforcement_Learning-FFD700?style=for-the-badge&logo=math&logoColor=black" alt="Reinforcement Learning">
-  </div>
-
-  <br/>
-
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="https://img.shields.io/badge/Clustering-4B8BBE?style=for-the-badge&logo=math&logoColor=white" alt="Clustering">
-    <img src="https://img.shields.io/badge/Time_Series-FFD700?style=for-the-badge&logo=math&logoColor=black" alt="Time Series">
-    <img src="https://img.shields.io/badge/Object_Detection-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Object Detection">
-  </div>
+  <table align="center" border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <td><a href="https://scikit-learn.org/stable/supervised_learning.html" target="_blank"><img src="https://img.shields.io/badge/Supervised_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Supervised Learning"/></a></td>
+    <td><a href="https://scikit-learn.org/stable/unsupervised_learning.html" target="_blank"><img src="https://img.shields.io/badge/Unsupervised_Learning-00A98F?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Unsupervised Learning"/></a></td>
+    <td><a href="https://www.tensorflow.org/federated" target="_blank"><img src="https://img.shields.io/badge/Federated_Learning-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Federated Learning"/></a></td>
+    <td><a href="https://www.deep-rl.com/" target="_blank"><img src="https://img.shields.io/badge/Reinforcement_Learning-FFD700?style=for-the-badge&logo=math&logoColor=black" alt="Reinforcement Learning"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://scikit-learn.org/stable/modules/clustering.html" target="_blank"><img src="https://img.shields.io/badge/Clustering-4B8BBE?style=for-the-badge&logo=math&logoColor=white" alt="Clustering"/></a></td>
+    <td><a href="https://www.statsmodels.org/stable/regression.html" target="_blank"><img src="https://img.shields.io/badge/Time_Series-FFD700?style=for-the-badge&logo=math&logoColor=black" alt="Time Series"/></a></td>
+    <td><a href="https://www.tensorflow.org/tutorials/images/detection" target="_blank"><img src="https://img.shields.io/badge/Object_Detection-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Object Detection"/></a></td>
+  </tr>
+  </table>
 </div>
-
 
 
 
