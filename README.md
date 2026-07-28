@@ -55,10 +55,6 @@
     <td><a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a></td>
     <td><a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/></a></td>
     <td><a href="https://huggingface.co/docs/transformers/index" target="_blank"><img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=transformers&logoColor=black" alt="Transformers"/></a></td>
-  </tr>
-  </table>
-  <table align="center" border="0" cellspacing="8" cellpadding="0">
-  <tr>
     <td><a href="https://www.pytorchlightning.ai/" target="_blank"><img src="https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=pytorch-lightning&logoColor=white" alt="PyTorch Lightning"/></a></td>
     <td><a href="https://wandb.ai/" target="_blank"><img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/></a></td>
     <td><a href="https://paperswithcode.com/method/gan" target="_blank"><img src="https://img.shields.io/badge/GANs-FF6F61?style=for-the-badge&logo=neural-network&logoColor=white" alt="GANs"/></a></td>
