@@ -25,19 +25,35 @@
 <div align="center">
   <h3>🦾 Machine Learning Techniques</h3>
 
-  [![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/supervised_learning.html)
-  [![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-00A98F?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/unsupervised_learning.html)
-  [![Federated Learning](https://img.shields.io/badge/Federated_Learning-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/federated)
-  [![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FFD700?style=for-the-badge&logo=math&logoColor=black)](https://www.deep-rl.com/)
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <a href="https://scikit-learn.org/stable/supervised_learning.html" style="text-decoration: none;">
+      <span style="background: #FF6F00; padding: 6px 14px; border-radius: 4px; color: white; font-weight: bold; font-size: 14px;">Supervised Learning</span>
+    </a>
+    <a href="https://scikit-learn.org/stable/unsupervised_learning.html" style="text-decoration: none;">
+      <span style="background: #00A98F; padding: 6px 14px; border-radius: 4px; color: white; font-weight: bold; font-size: 14px;">Unsupervised Learning</span>
+    </a>
+    <a href="https://www.tensorflow.org/federated" style="text-decoration: none;">
+      <span style="background: #4285F4; padding: 6px 14px; border-radius: 4px; color: white; font-weight: bold; font-size: 14px;">Federated Learning</span>
+    </a>
+    <a href="https://www.deep-rl.com/" style="text-decoration: none;">
+      <span style="background: #FFD700; padding: 6px 14px; border-radius: 4px; color: black; font-weight: bold; font-size: 14px;">Reinforcement Learning</span>
+    </a>
+  </div>
 
   <br/>
 
-  [![Clustering](https://img.shields.io/badge/Clustering-4B8BBE?style=for-the-badge&logo=math&logoColor=white)](https://scikit-learn.org/stable/modules/clustering.html)
-  [![Time Series](https://img.shields.io/badge/Time_Series-FFD700?style=for-the-badge&logo=math&logoColor=black)](https://www.statsmodels.org/stable/regression.html)
-  [![Object Detection](https://img.shields.io/badge/Object_Detection-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/tutorials/images/detection)
-
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <a href="https://scikit-learn.org/stable/modules/clustering.html" style="text-decoration: none;">
+      <span style="background: #4B8BBE; padding: 6px 14px; border-radius: 4px; color: white; font-weight: bold; font-size: 14px;">Clustering</span>
+    </a>
+    <a href="https://www.statsmodels.org/stable/regression.html" style="text-decoration: none;">
+      <span style="background: #FFD700; padding: 6px 14px; border-radius: 4px; color: black; font-weight: bold; font-size: 14px;">Time Series</span>
+    </a>
+    <a href="https://www.tensorflow.org/tutorials/images/detection" style="text-decoration: none;">
+      <span style="background: #FF4081; padding: 6px 14px; border-radius: 4px; color: white; font-weight: bold; font-size: 14px;">Object Detection</span>
+    </a>
+  </div>
 </div>
-
 
 
 
