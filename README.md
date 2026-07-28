@@ -48,36 +48,28 @@
 
 
 <div align="center">
-  <h3 style="color: #58A6FF; font-size: 24px; font-weight: 700; margin-bottom: 15px;">🧠 Deep Learning</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="https://pytorch.org/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt=1777313375"PyTorch"/>
-    </a>
-    <a href="https://www.tensorflow.org/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt=1777313375"TensorFlow"/>
-    </a>
-    <a href="https://keras.io/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt=1777313375"Keras"/>
-    </a>
-    <a href="https://huggingface.co/docs/transformers/index" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=transformers&logoColor=black" alt=1777313375"Transformers"/>
-    </a>
-    <a href="https://www.pytorchlightning.ai/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=pytorch-lightning&logoColor=white" alt=1777313375"PyTorch Lightning"/>
-    </a>
-    <a href="https://wandb.ai/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt=1777313375"Weights & Biases"/>
-    </a>
-    <a href="https://paperswithcode.com/method/gan" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/GANs-FF6F61?style=for-the-badge&logo=neural-network&logoColor=white" alt=1777313375"GANs"/>
-    </a>
-    <a href="https://www.nvidia.com/en-us/data-center/cuda-toolkit/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt=1777313375"CUDA"/>
-    </a>
-    <a href="https://www.fast.ai/" target=1777313375"_blank">
-      <img src="https://img.shields.io/badge/FastAI-0078D4?style=for-the-badge&logo=fastai&logoColor=white" alt=1777313375"FastAI"/>
-    </a>
-  </div>
+  <h3>🧠 Deep Learning</h3>
+  <table align="center" border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <td><a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a></td>
+    <td><a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a></td>
+    <td><a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/></a></td>
+    <td><a href="https://huggingface.co/docs/transformers/index" target="_blank"><img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=transformers&logoColor=black" alt="Transformers"/></a></td>
+  </tr>
+  </table>
+  <table align="center" border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <td><a href="https://www.pytorchlightning.ai/" target="_blank"><img src="https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=pytorch-lightning&logoColor=white" alt="PyTorch Lightning"/></a></td>
+    <td><a href="https://wandb.ai/" target="_blank"><img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/></a></td>
+    <td><a href="https://paperswithcode.com/method/gan" target="_blank"><img src="https://img.shields.io/badge/GANs-FF6F61?style=for-the-badge&logo=neural-network&logoColor=white" alt="GANs"/></a></td>
+  </tr>
+  </table>
+  <table align="center" border="0" cellspacing="8" cellpadding="0">
+  <tr>
+    <td><a href="https://www.nvidia.com/en-us/data-center/cuda-toolkit/" target="_blank"><img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/></a></td>
+    <td><a href="https://www.fast.ai/" target="_blank"><img src="https://img.shields.io/badge/FastAI-0078D4?style=for-the-badge&logo=fastai&logoColor=white" alt="FastAI"/></a></td>
+  </tr>
+  </table>
 </div>
 
 
