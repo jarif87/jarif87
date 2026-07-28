@@ -11,14 +11,13 @@
 
 <table align="center">
 <tr>
-<td><a href="https://twitter.com/jarif84112354" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/></a></td>
-<td><a href="https://linkedin.com/in/sadik-aljarif-3033351a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></td>
-<td><a href="https://www.kaggle.com/#" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2300B8B8?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle Badge"/></a></td>
-<td><a href="https://fb.com/sadikal.jarif/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231D82B6?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge"/></a></td>
-<td><a href="https://medium.com/@sadikaljarif05" target="_blank"><img src="https://img.shields.io/badge/Medium-%231572B6?style=flat-square&logo=medium&logoColor=white" alt="Medium Badge"/></a></td>
+<td><a href="https://twitter.com/jarif84112354" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/></a></td>
+<td><a href="https://linkedin.com/in/sadik-aljarif-3033351a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></td>
+<td><a href="https://www.kaggle.com/#" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%2300B8B8?style=flat&logo=kaggle&logoColor=white" alt="Kaggle Badge"/></a></td>
+<td><a href="https://fb.com/sadikal.jarif/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231D82B6?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/></a></td>
+<td><a href="https://medium.com/@sadikaljarif05" target="_blank"><img src="https://img.shields.io/badge/Medium-%231572B6?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/></a></td>
 </tr>
 </table>
-
 
 
 <div align="center">
